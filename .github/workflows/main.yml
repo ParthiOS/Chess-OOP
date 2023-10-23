@@ -1,0 +1,46 @@
+name: Build and Release
+
+on:
+  push:
+    branches:
+      - main  # or replace 'main' with your default branch name if it's different
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # Replace with your specific Python version, if necessary
+
+    - name: Install Nuitka
+      run: pip install Nuitka
+
+    - name: Compile with Nuitka
+      run: python -m nuitka --standalone --follow-imports main.py  # replacing 'my_script.py' with 'main.py'
+
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: Release ${{ github.ref }}
+        draft: false
+        prerelease: false
+
+    - name: Upload Release Asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the output of the "Create Release" step
+        asset_path: ./main.dist/main  # replacing 'my_script' with 'main'
+        asset_name: main  # replacing 'my_script' with 'main'
+        asset_content_type: application/octet-stream
