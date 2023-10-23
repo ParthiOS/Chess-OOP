@@ -1,0 +1,1970 @@
+[2023-10-23T17:22:51.161125 11428] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.161125 11428] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) base_dir = 
+[2023-10-23T17:22:51.161125 11428] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.161125 11428] Config: (default) compiler = 
+[2023-10-23T17:22:51.161125 11428] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.161125 11428] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.161125 11428] Config: (default) compression = true
+[2023-10-23T17:22:51.161125 11428] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.161125 11428] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.161125 11428] Config: (default) debug = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.161125 11428] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.161125 11428] Config: (default) disable = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.161125 11428] Config: (default) file_clone = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) hard_link = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.161125 11428] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.161125 11428] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.161125 11428] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.161125 11428] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.161125 11428] Config: (default) max_files = 0
+[2023-10-23T17:22:51.161125 11428] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.161125 11428] Config: (default) namespace = 
+[2023-10-23T17:22:51.161125 11428] Config: (default) path = 
+[2023-10-23T17:22:51.161125 11428] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.161125 11428] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.161125 11428] Config: (default) read_only = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) recache = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) reshare = false
+[2023-10-23T17:22:51.161125 11428] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.161125 11428] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.161125 11428] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.161125 11428] Config: (default) stats = true
+[2023-10-23T17:22:51.161125 11428] Config: (default) stats_log = 
+[2023-10-23T17:22:51.161125 11428] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.161125 11428] Config: (default) umask = 
+[2023-10-23T17:22:51.162126 11428] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2023-10-23T17:22:51.166130 11428] Hostname: Parth
+[2023-10-23T17:22:51.166130 11428] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.166130 11428] Compiler type: gcc
+[2023-10-23T17:22:51.167132 11428] Source file: __constants.c
+[2023-10-23T17:22:51.167132 11428] Object file: __constants.o
+[2023-10-23T17:22:51.167132 11428] Trying direct lookup
+[2023-10-23T17:22:51.167132 11428] No ee61r2qienfvj5dmacu297qhnm1mmet58 in primary storage
+[2023-10-23T17:22:51.169132 11428] Running preprocessor
+[2023-10-23T17:22:51.169132 10344] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.169132 10344] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) base_dir = 
+[2023-10-23T17:22:51.169132 10344] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.169132 10344] Config: (default) compiler = 
+[2023-10-23T17:22:51.169132 10344] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.169132 10344] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.169132 10344] Config: (default) compression = true
+[2023-10-23T17:22:51.169132 10344] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.169132 10344] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.169132 10344] Config: (default) debug = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.169132 10344] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.169132 10344] Config: (default) disable = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.169132 10344] Config: (default) file_clone = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) hard_link = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.169132 10344] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.169132 10344] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.169132 10344] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.169132 10344] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.169132 10344] Config: (default) max_files = 0
+[2023-10-23T17:22:51.169132 10344] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.169132 10344] Config: (default) namespace = 
+[2023-10-23T17:22:51.169132 10344] Config: (default) path = 
+[2023-10-23T17:22:51.169132 10344] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.169132 10344] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.169132 10344] Config: (default) read_only = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) recache = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) reshare = false
+[2023-10-23T17:22:51.169132 10344] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.169132 10344] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.169132 10344] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.169132 10344] Config: (default) stats = true
+[2023-10-23T17:22:51.169132 10344] Config: (default) stats_log = 
+[2023-10-23T17:22:51.169132 10344] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.169132 10344] Config: (default) umask = 
+[2023-10-23T17:22:51.169132 10344] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src __helpers.c
+[2023-10-23T17:22:51.174137 10344] Hostname: Parth
+[2023-10-23T17:22:51.174137 10344] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.174137 10344] Compiler type: gcc
+[2023-10-23T17:22:51.174137 10344] Source file: __helpers.c
+[2023-10-23T17:22:51.174137 10344] Object file: __helpers.o
+[2023-10-23T17:22:51.174137 10344] Trying direct lookup
+[2023-10-23T17:22:51.174137 10344] No cb41hjaab09somvr7gfvk1rt1lpf3tf82 in primary storage
+[2023-10-23T17:22:51.176139 10344] Running preprocessor
+[2023-10-23T17:22:51.179142 9688 ] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) base_dir = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) compiler = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) compression = true
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) debug = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) disable = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) file_clone = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) hard_link = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.179142 9688 ] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) max_files = 0
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) namespace = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) path = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) read_only = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) recache = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) reshare = false
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) stats = true
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) stats_log = 
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.179142 9688 ] Config: (default) umask = 
+[2023-10-23T17:22:51.179142 9688 ] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2023-10-23T17:22:51.184146 9688 ] Hostname: Parth
+[2023-10-23T17:22:51.184146 9688 ] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.184146 9688 ] Compiler type: gcc
+[2023-10-23T17:22:51.184146 9688 ] Source file: __loader.c
+[2023-10-23T17:22:51.184146 9688 ] Object file: __loader.o
+[2023-10-23T17:22:51.184146 9688 ] Trying direct lookup
+[2023-10-23T17:22:51.184146 9688 ] No 3e9ff7a9gi1br2s20fk8ulaq0u2i01mqm in primary storage
+[2023-10-23T17:22:51.186148 9688 ] Running preprocessor
+[2023-10-23T17:22:51.198159 18892] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.198159 18892] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) base_dir = 
+[2023-10-23T17:22:51.198159 18892] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.198159 18892] Config: (default) compiler = 
+[2023-10-23T17:22:51.198159 18892] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.198159 18892] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.198159 18892] Config: (default) compression = true
+[2023-10-23T17:22:51.198159 18892] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.198159 18892] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.198159 18892] Config: (default) debug = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.198159 18892] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.198159 18892] Config: (default) disable = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.198159 18892] Config: (default) file_clone = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) hard_link = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.198159 18892] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.198159 18892] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.198159 18892] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.198159 18892] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.198159 18892] Config: (default) max_files = 0
+[2023-10-23T17:22:51.198159 18892] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.198159 18892] Config: (default) namespace = 
+[2023-10-23T17:22:51.198159 18892] Config: (default) path = 
+[2023-10-23T17:22:51.198159 18892] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.198159 18892] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.198159 18892] Config: (default) read_only = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) recache = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) reshare = false
+[2023-10-23T17:22:51.198159 18892] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.198159 18892] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.198159 18892] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.198159 18892] Config: (default) stats = true
+[2023-10-23T17:22:51.198159 18892] Config: (default) stats_log = 
+[2023-10-23T17:22:51.198159 18892] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.198159 18892] Config: (default) umask = 
+[2023-10-23T17:22:51.199160 18892] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2023-10-23T17:22:51.203164 18892] Hostname: Parth
+[2023-10-23T17:22:51.203164 18892] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.203164 18892] Compiler type: gcc
+[2023-10-23T17:22:51.203164 18892] Source file: module.__main__.c
+[2023-10-23T17:22:51.203164 18892] Object file: module.__main__.o
+[2023-10-23T17:22:51.203164 18892] Trying direct lookup
+[2023-10-23T17:22:51.204164 18892] No a8e9nti2bk1tve15m8r00493s9cnjhfm2 in primary storage
+[2023-10-23T17:22:51.205165 18892] Running preprocessor
+[2023-10-23T17:22:51.221180 1292 ] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) base_dir = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) compiler = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) compression = true
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) debug = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) disable = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) file_clone = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) hard_link = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.221180 1292 ] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) max_files = 0
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) namespace = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) path = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) read_only = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) recache = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) reshare = false
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) stats = true
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) stats_log = 
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.221180 1292 ] Config: (default) umask = 
+[2023-10-23T17:22:51.221180 1292 ] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.board.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.board.c
+[2023-10-23T17:22:51.226184 1292 ] Hostname: Parth
+[2023-10-23T17:22:51.226184 1292 ] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.226184 1292 ] Compiler type: gcc
+[2023-10-23T17:22:51.226184 1292 ] Source file: module.board.c
+[2023-10-23T17:22:51.227185 1292 ] Object file: module.board.o
+[2023-10-23T17:22:51.227185 1292 ] Trying direct lookup
+[2023-10-23T17:22:51.228187 1292 ] No 3ab7ea5treo796ftlqk8c3g72ec2fm8g0 in primary storage
+[2023-10-23T17:22:51.229188 1292 ] Running preprocessor
+[2023-10-23T17:22:51.235192 19012] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.235192 19012] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) base_dir = 
+[2023-10-23T17:22:51.235192 19012] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.235192 19012] Config: (default) compiler = 
+[2023-10-23T17:22:51.235192 19012] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.235192 19012] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.235192 19012] Config: (default) compression = true
+[2023-10-23T17:22:51.235192 19012] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.235192 19012] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.235192 19012] Config: (default) debug = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.235192 19012] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.235192 19012] Config: (default) disable = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.235192 19012] Config: (default) file_clone = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) hard_link = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.235192 19012] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.235192 19012] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.235192 19012] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.235192 19012] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.235192 19012] Config: (default) max_files = 0
+[2023-10-23T17:22:51.235192 19012] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.235192 19012] Config: (default) namespace = 
+[2023-10-23T17:22:51.235192 19012] Config: (default) path = 
+[2023-10-23T17:22:51.235192 19012] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.235192 19012] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.235192 19012] Config: (default) read_only = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) recache = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) reshare = false
+[2023-10-23T17:22:51.235192 19012] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.235192 19012] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.235192 19012] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.235192 19012] Config: (default) stats = true
+[2023-10-23T17:22:51.235192 19012] Config: (default) stats_log = 
+[2023-10-23T17:22:51.235192 19012] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.235192 19012] Config: (default) umask = 
+[2023-10-23T17:22:51.236194 19012] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.const.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.const.c
+[2023-10-23T17:22:51.241198 19012] Hostname: Parth
+[2023-10-23T17:22:51.241198 19012] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.241198 19012] Compiler type: gcc
+[2023-10-23T17:22:51.241198 19012] Source file: module.const.c
+[2023-10-23T17:22:51.241198 19012] Object file: module.const.o
+[2023-10-23T17:22:51.241198 19012] Trying direct lookup
+[2023-10-23T17:22:51.241198 19012] No a463e1gm99jtc5l0mhlf3tmqbi5g3ij3m in primary storage
+[2023-10-23T17:22:51.243200 19012] Running preprocessor
+[2023-10-23T17:22:51.251208 5056 ] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) base_dir = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) compiler = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) compression = true
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) debug = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) disable = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) file_clone = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) hard_link = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.251208 5056 ] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) max_files = 0
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) namespace = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) path = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) read_only = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) recache = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) reshare = false
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) stats = true
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) stats_log = 
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.251208 5056 ] Config: (default) umask = 
+[2023-10-23T17:22:51.251208 5056 ] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.dragger.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.dragger.c
+[2023-10-23T17:22:51.256212 5056 ] Hostname: Parth
+[2023-10-23T17:22:51.256212 5056 ] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.256212 5056 ] Compiler type: gcc
+[2023-10-23T17:22:51.256212 5056 ] Source file: module.dragger.c
+[2023-10-23T17:22:51.256212 5056 ] Object file: module.dragger.o
+[2023-10-23T17:22:51.256212 5056 ] Trying direct lookup
+[2023-10-23T17:22:51.257213 5056 ] No cca5pig4gaul1582hgd396ltdkfv6t8ng in primary storage
+[2023-10-23T17:22:51.259216 5056 ] Running preprocessor
+[2023-10-23T17:22:51.269224 17184] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.269224 17184] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) base_dir = 
+[2023-10-23T17:22:51.269224 17184] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.269224 17184] Config: (default) compiler = 
+[2023-10-23T17:22:51.269224 17184] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.269224 17184] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.269224 17184] Config: (default) compression = true
+[2023-10-23T17:22:51.269224 17184] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.269224 17184] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.269224 17184] Config: (default) debug = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.269224 17184] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.269224 17184] Config: (default) disable = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.269224 17184] Config: (default) file_clone = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) hard_link = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.269224 17184] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.269224 17184] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.269224 17184] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.269224 17184] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.269224 17184] Config: (default) max_files = 0
+[2023-10-23T17:22:51.269224 17184] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.269224 17184] Config: (default) namespace = 
+[2023-10-23T17:22:51.269224 17184] Config: (default) path = 
+[2023-10-23T17:22:51.269224 17184] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.269224 17184] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.269224 17184] Config: (default) read_only = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) recache = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) reshare = false
+[2023-10-23T17:22:51.269224 17184] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.269224 17184] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.269224 17184] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.269224 17184] Config: (default) stats = true
+[2023-10-23T17:22:51.269224 17184] Config: (default) stats_log = 
+[2023-10-23T17:22:51.269224 17184] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.269224 17184] Config: (default) umask = 
+[2023-10-23T17:22:51.270225 17184] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.game.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.game.c
+[2023-10-23T17:22:51.275229 17184] Hostname: Parth
+[2023-10-23T17:22:51.275229 17184] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.275229 17184] Compiler type: gcc
+[2023-10-23T17:22:51.275229 17184] Source file: module.game.c
+[2023-10-23T17:22:51.275229 17184] Object file: module.game.o
+[2023-10-23T17:22:51.275229 17184] Trying direct lookup
+[2023-10-23T17:22:51.276230 17184] No fdd48ii8gh7ts68rpbemj0fq4rb5ab826 in primary storage
+[2023-10-23T17:22:51.278232 17184] Running preprocessor
+[2023-10-23T17:22:51.287240 4316 ] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) base_dir = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) compiler = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) compression = true
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) debug = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) disable = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) file_clone = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) hard_link = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.287240 4316 ] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) max_files = 0
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) namespace = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) path = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) read_only = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) recache = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) reshare = false
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) stats = true
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) stats_log = 
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.287240 4316 ] Config: (default) umask = 
+[2023-10-23T17:22:51.287240 4316 ] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.move.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.move.c
+[2023-10-23T17:22:51.292244 4316 ] Hostname: Parth
+[2023-10-23T17:22:51.292244 4316 ] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.292244 4316 ] Compiler type: gcc
+[2023-10-23T17:22:51.293245 4316 ] Source file: module.move.c
+[2023-10-23T17:22:51.293245 4316 ] Object file: module.move.o
+[2023-10-23T17:22:51.293245 4316 ] Trying direct lookup
+[2023-10-23T17:22:51.293245 4316 ] No 560441hk8qdtav78nabiunacp2hug26ro in primary storage
+[2023-10-23T17:22:51.295247 4316 ] Running preprocessor
+[2023-10-23T17:22:51.314265 16480] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.314265 16480] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) base_dir = 
+[2023-10-23T17:22:51.314265 16480] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.314265 16480] Config: (default) compiler = 
+[2023-10-23T17:22:51.314265 16480] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.314265 16480] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.314265 16480] Config: (default) compression = true
+[2023-10-23T17:22:51.314265 16480] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.314265 16480] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.314265 16480] Config: (default) debug = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.314265 16480] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.314265 16480] Config: (default) disable = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.314265 16480] Config: (default) file_clone = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) hard_link = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.314265 16480] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.314265 16480] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.314265 16480] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.314265 16480] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.314265 16480] Config: (default) max_files = 0
+[2023-10-23T17:22:51.314265 16480] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.314265 16480] Config: (default) namespace = 
+[2023-10-23T17:22:51.314265 16480] Config: (default) path = 
+[2023-10-23T17:22:51.314265 16480] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.314265 16480] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.314265 16480] Config: (default) read_only = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) recache = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) reshare = false
+[2023-10-23T17:22:51.314265 16480] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.314265 16480] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.314265 16480] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.314265 16480] Config: (default) stats = true
+[2023-10-23T17:22:51.314265 16480] Config: (default) stats_log = 
+[2023-10-23T17:22:51.314265 16480] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.314265 16480] Config: (default) umask = 
+[2023-10-23T17:22:51.314265 16480] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.piece.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.piece.c
+[2023-10-23T17:22:51.319269 16480] Hostname: Parth
+[2023-10-23T17:22:51.319269 16480] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.319269 16480] Compiler type: gcc
+[2023-10-23T17:22:51.320270 16480] Source file: module.piece.c
+[2023-10-23T17:22:51.320270 16480] Object file: module.piece.o
+[2023-10-23T17:22:51.320270 16480] Trying direct lookup
+[2023-10-23T17:22:51.321271 16480] No 1a226fuigkbm7ba0ien0vhnto4k1i4fa2 in primary storage
+[2023-10-23T17:22:51.322272 16480] Running preprocessor
+[2023-10-23T17:22:51.340288 9688 ] Got result key from preprocessor
+[2023-10-23T17:22:51.340288 9688 ] No c7b51i49f4j657orbm0btr8sokspdmfc4 in primary storage
+[2023-10-23T17:22:51.340288 9688 ] Running real compiler
+[2023-10-23T17:22:51.343291 12312] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.343291 12312] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) base_dir = 
+[2023-10-23T17:22:51.343291 12312] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.343291 12312] Config: (default) compiler = 
+[2023-10-23T17:22:51.343291 12312] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.343291 12312] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.343291 12312] Config: (default) compression = true
+[2023-10-23T17:22:51.343291 12312] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.343291 12312] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.343291 12312] Config: (default) debug = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.343291 12312] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.343291 12312] Config: (default) disable = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.343291 12312] Config: (default) file_clone = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) hard_link = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.343291 12312] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.343291 12312] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.343291 12312] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.343291 12312] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.343291 12312] Config: (default) max_files = 0
+[2023-10-23T17:22:51.343291 12312] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.343291 12312] Config: (default) namespace = 
+[2023-10-23T17:22:51.343291 12312] Config: (default) path = 
+[2023-10-23T17:22:51.343291 12312] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.343291 12312] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.343291 12312] Config: (default) read_only = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) recache = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) reshare = false
+[2023-10-23T17:22:51.343291 12312] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.343291 12312] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.343291 12312] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.343291 12312] Config: (default) stats = true
+[2023-10-23T17:22:51.343291 12312] Config: (default) stats_log = 
+[2023-10-23T17:22:51.343291 12312] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.343291 12312] Config: (default) umask = 
+[2023-10-23T17:22:51.343291 12312] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pkg_resources-postLoad.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pkg_resources-postLoad.c
+[2023-10-23T17:22:51.349296 12312] Hostname: Parth
+[2023-10-23T17:22:51.349296 12312] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.349296 12312] Compiler type: gcc
+[2023-10-23T17:22:51.349296 12312] Source file: module.pkg_resources-postLoad.c
+[2023-10-23T17:22:51.349296 12312] Object file: module.pkg_resources-postLoad.o
+[2023-10-23T17:22:51.349296 12312] Trying direct lookup
+[2023-10-23T17:22:51.350297 12312] No 6e2859mp54psgedhketjtrrg5laae1p7a in primary storage
+[2023-10-23T17:22:51.351298 12312] Running preprocessor
+[2023-10-23T17:22:51.352299 5408 ] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) base_dir = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) compiler = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) compression = true
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) debug = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) disable = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) file_clone = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) hard_link = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.352299 5408 ] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) max_files = 0
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) namespace = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) path = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) read_only = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) recache = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) reshare = false
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) stats = true
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) stats_log = 
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.352299 5408 ] Config: (default) umask = 
+[2023-10-23T17:22:51.352299 5408 ] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.c
+[2023-10-23T17:22:51.357304 5408 ] Hostname: Parth
+[2023-10-23T17:22:51.357304 5408 ] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.357304 5408 ] Compiler type: gcc
+[2023-10-23T17:22:51.358305 5408 ] Source file: module.pygame.c
+[2023-10-23T17:22:51.358305 5408 ] Object file: module.pygame.o
+[2023-10-23T17:22:51.358305 5408 ] Trying direct lookup
+[2023-10-23T17:22:51.359306 5408 ] No fd0ekhibd0c0hgptet8sckm52r7fm423e in primary storage
+[2023-10-23T17:22:51.360306 5408 ] Running preprocessor
+[2023-10-23T17:22:51.566494 9688 ] Using default compression level 1
+[2023-10-23T17:22:51.566494 9688 ] Storing embedded entry #0 .o (27529 bytes) from __loader.o
+[2023-10-23T17:22:51.567495 9688 ] Stored c7b51i49f4j657orbm0btr8sokspdmfc4 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/7/b51i49f4j657orbm0btr8sokspdmfc4R)
+[2023-10-23T17:22:51.568496 9688 ] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/e/9ff7a9gi1br2s20fk8ulaq0u2i01mqmM
+[2023-10-23T17:22:51.576503 9688 ] Using default compression level 1
+[2023-10-23T17:22:51.577504 9688 ] Stored 3e9ff7a9gi1br2s20fk8ulaq0u2i01mqm in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/e/9ff7a9gi1br2s20fk8ulaq0u2i01mqmM)
+[2023-10-23T17:22:51.577504 9688 ] Result: cache_miss
+[2023-10-23T17:22:51.577504 9688 ] Result: direct_cache_miss
+[2023-10-23T17:22:51.577504 9688 ] Result: preprocessed_cache_miss
+[2023-10-23T17:22:51.577504 9688 ] Result: primary_storage_miss
+[2023-10-23T17:22:51.578505 9688 ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-10-23T17:22:51.579506 9688 ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-10-23T17:22:51.579506 9688 ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-10-23T17:22:51.580507 9688 ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-10-23T17:22:51.580507 9688 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.G6vxhD
+[2023-10-23T17:22:51.580507 9688 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.0SkSeV
+[2023-10-23T17:22:51.580507 9688 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.O67S1X
+[2023-10-23T17:22:51.580507 9688 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.C1ga3h.i
+[2023-10-23T17:22:51.581507 9688 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.C1ga3h
+[2023-10-23T17:22:51.638559 17500] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:51.638559 17500] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) base_dir = 
+[2023-10-23T17:22:51.638559 17500] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:51.638559 17500] Config: (default) compiler = 
+[2023-10-23T17:22:51.638559 17500] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:51.638559 17500] Config: (default) compiler_type = auto
+[2023-10-23T17:22:51.638559 17500] Config: (default) compression = true
+[2023-10-23T17:22:51.638559 17500] Config: (default) compression_level = 0
+[2023-10-23T17:22:51.638559 17500] Config: (default) cpp_extension = 
+[2023-10-23T17:22:51.638559 17500] Config: (default) debug = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) debug_dir = 
+[2023-10-23T17:22:51.638559 17500] Config: (default) depend_mode = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) direct_mode = true
+[2023-10-23T17:22:51.638559 17500] Config: (default) disable = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:51.638559 17500] Config: (default) file_clone = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) hard_link = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) hash_dir = true
+[2023-10-23T17:22:51.638559 17500] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:51.638559 17500] Config: (default) ignore_options = 
+[2023-10-23T17:22:51.638559 17500] Config: (default) inode_cache = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:51.638559 17500] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:51.638559 17500] Config: (default) max_files = 0
+[2023-10-23T17:22:51.638559 17500] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:51.638559 17500] Config: (default) namespace = 
+[2023-10-23T17:22:51.638559 17500] Config: (default) path = 
+[2023-10-23T17:22:51.638559 17500] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) prefix_command = 
+[2023-10-23T17:22:51.638559 17500] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:51.638559 17500] Config: (default) read_only = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) read_only_direct = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) recache = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) reshare = false
+[2023-10-23T17:22:51.638559 17500] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:51.638559 17500] Config: (default) secondary_storage = 
+[2023-10-23T17:22:51.638559 17500] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:51.638559 17500] Config: (default) stats = true
+[2023-10-23T17:22:51.638559 17500] Config: (default) stats_log = 
+[2023-10-23T17:22:51.638559 17500] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:51.638559 17500] Config: (default) umask = 
+[2023-10-23T17:22:51.638559 17500] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.colordict.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.colordict.c
+[2023-10-23T17:22:51.644565 17500] Hostname: Parth
+[2023-10-23T17:22:51.644565 17500] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:51.644565 17500] Compiler type: gcc
+[2023-10-23T17:22:51.644565 17500] Source file: module.pygame.colordict.c
+[2023-10-23T17:22:51.644565 17500] Object file: module.pygame.colordict.o
+[2023-10-23T17:22:51.644565 17500] Trying direct lookup
+[2023-10-23T17:22:51.645566 17500] No 8afenioj1stv91pnd17p11p26u318luqo in primary storage
+[2023-10-23T17:22:51.646567 17500] Running preprocessor
+[2023-10-23T17:22:52.228095 11428] Got result key from preprocessor
+[2023-10-23T17:22:52.228095 11428] Retrieved 0903d9kkullcvmgbfg3q3klph6vtsfrra from primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/9/03d9kkullcvmgbfg3q3klph6vtsfrraR)
+[2023-10-23T17:22:52.228095 11428] Reading embedded entry #0 .o (3208 bytes)
+[2023-10-23T17:22:52.228095 11428] Writing to __constants.o
+[2023-10-23T17:22:52.229097 11428] Succeeded getting cached result
+[2023-10-23T17:22:52.229097 11428] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/e/61r2qienfvj5dmacu297qhnm1mmet58M
+[2023-10-23T17:22:52.244110 10344] Got result key from preprocessor
+[2023-10-23T17:22:52.244110 10344] Retrieved 42e64lplu1e25g435p3avnv7ue86n31qa from primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/2/e64lplu1e25g435p3avnv7ue86n31qaR)
+[2023-10-23T17:22:52.244110 10344] Reading embedded entry #0 .o (418 bytes)
+[2023-10-23T17:22:52.244110 10344] Writing to __helpers.o
+[2023-10-23T17:22:52.245111 10344] Succeeded getting cached result
+[2023-10-23T17:22:52.245111 10344] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/b/41hjaab09somvr7gfvk1rt1lpf3tf82M
+[2023-10-23T17:22:52.259124 11428] Using default compression level 1
+[2023-10-23T17:22:52.261126 11428] Stored ee61r2qienfvj5dmacu297qhnm1mmet58 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/e/61r2qienfvj5dmacu297qhnm1mmet58M)
+[2023-10-23T17:22:52.261126 11428] Result: direct_cache_miss
+[2023-10-23T17:22:52.261126 11428] Result: preprocessed_cache_hit
+[2023-10-23T17:22:52.261126 11428] Result: primary_storage_hit
+[2023-10-23T17:22:52.261126 11428] Result: primary_storage_miss
+[2023-10-23T17:22:52.261126 11428] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2023-10-23T17:22:52.262127 11428] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2023-10-23T17:22:52.263127 11428] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/4/stats.lock
+[2023-10-23T17:22:52.264128 11428] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/4/stats.lock
+[2023-10-23T17:22:52.264128 11428] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.PEOwuE
+[2023-10-23T17:22:52.264128 11428] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.cvcC29.i
+[2023-10-23T17:22:52.265129 11428] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.cvcC29
+[2023-10-23T17:22:52.283145 10344] Using default compression level 1
+[2023-10-23T17:22:52.285147 10344] Stored cb41hjaab09somvr7gfvk1rt1lpf3tf82 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/b/41hjaab09somvr7gfvk1rt1lpf3tf82M)
+[2023-10-23T17:22:52.285147 10344] Result: direct_cache_miss
+[2023-10-23T17:22:52.285147 10344] Result: preprocessed_cache_hit
+[2023-10-23T17:22:52.285147 10344] Result: primary_storage_hit
+[2023-10-23T17:22:52.285147 10344] Result: primary_storage_miss
+[2023-10-23T17:22:52.286149 10344] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-10-23T17:22:52.287149 10344] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-10-23T17:22:52.288150 10344] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/8/stats.lock
+[2023-10-23T17:22:52.289152 10344] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/8/stats.lock
+[2023-10-23T17:22:52.289152 10344] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.Kb2xz3
+[2023-10-23T17:22:52.289152 10344] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.zZtUVN.i
+[2023-10-23T17:22:52.290152 10344] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.zZtUVN
+[2023-10-23T17:22:52.334192 18892] Got result key from preprocessor
+[2023-10-23T17:22:52.334192 18892] No 3cfevpjvrau3nnovlj318jrb2ublk3g4k in primary storage
+[2023-10-23T17:22:52.334192 18892] Running real compiler
+[2023-10-23T17:22:52.336194 11324] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:52.336194 11324] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) base_dir = 
+[2023-10-23T17:22:52.336194 11324] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:52.336194 11324] Config: (default) compiler = 
+[2023-10-23T17:22:52.336194 11324] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:52.336194 11324] Config: (default) compiler_type = auto
+[2023-10-23T17:22:52.336194 11324] Config: (default) compression = true
+[2023-10-23T17:22:52.336194 11324] Config: (default) compression_level = 0
+[2023-10-23T17:22:52.336194 11324] Config: (default) cpp_extension = 
+[2023-10-23T17:22:52.336194 11324] Config: (default) debug = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) debug_dir = 
+[2023-10-23T17:22:52.336194 11324] Config: (default) depend_mode = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) direct_mode = true
+[2023-10-23T17:22:52.336194 11324] Config: (default) disable = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:52.336194 11324] Config: (default) file_clone = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) hard_link = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) hash_dir = true
+[2023-10-23T17:22:52.336194 11324] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:52.336194 11324] Config: (default) ignore_options = 
+[2023-10-23T17:22:52.336194 11324] Config: (default) inode_cache = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:52.336194 11324] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:52.336194 11324] Config: (default) max_files = 0
+[2023-10-23T17:22:52.336194 11324] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:52.336194 11324] Config: (default) namespace = 
+[2023-10-23T17:22:52.336194 11324] Config: (default) path = 
+[2023-10-23T17:22:52.336194 11324] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) prefix_command = 
+[2023-10-23T17:22:52.336194 11324] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:52.336194 11324] Config: (default) read_only = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) read_only_direct = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) recache = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) reshare = false
+[2023-10-23T17:22:52.336194 11324] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:52.336194 11324] Config: (default) secondary_storage = 
+[2023-10-23T17:22:52.336194 11324] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:52.336194 11324] Config: (default) stats = true
+[2023-10-23T17:22:52.336194 11324] Config: (default) stats_log = 
+[2023-10-23T17:22:52.336194 11324] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:52.336194 11324] Config: (default) umask = 
+[2023-10-23T17:22:52.336194 11324] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.cursors.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.cursors.c
+[2023-10-23T17:22:52.342199 11324] Hostname: Parth
+[2023-10-23T17:22:52.342199 11324] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:52.342199 11324] Compiler type: gcc
+[2023-10-23T17:22:52.342199 11324] Source file: module.pygame.cursors.c
+[2023-10-23T17:22:52.342199 11324] Object file: module.pygame.cursors.o
+[2023-10-23T17:22:52.343200 11324] Trying direct lookup
+[2023-10-23T17:22:52.344201 11324] No 3be0i4e8olijpm2lnhb7n6hvrgqsr0gva in primary storage
+[2023-10-23T17:22:52.345202 11324] Running preprocessor
+[2023-10-23T17:22:52.354210 14700] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:52.354210 14700] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) base_dir = 
+[2023-10-23T17:22:52.354210 14700] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:52.354210 14700] Config: (default) compiler = 
+[2023-10-23T17:22:52.354210 14700] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:52.354210 14700] Config: (default) compiler_type = auto
+[2023-10-23T17:22:52.354210 14700] Config: (default) compression = true
+[2023-10-23T17:22:52.354210 14700] Config: (default) compression_level = 0
+[2023-10-23T17:22:52.354210 14700] Config: (default) cpp_extension = 
+[2023-10-23T17:22:52.354210 14700] Config: (default) debug = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) debug_dir = 
+[2023-10-23T17:22:52.354210 14700] Config: (default) depend_mode = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) direct_mode = true
+[2023-10-23T17:22:52.354210 14700] Config: (default) disable = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:52.354210 14700] Config: (default) file_clone = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) hard_link = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) hash_dir = true
+[2023-10-23T17:22:52.354210 14700] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:52.354210 14700] Config: (default) ignore_options = 
+[2023-10-23T17:22:52.354210 14700] Config: (default) inode_cache = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:52.354210 14700] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:52.354210 14700] Config: (default) max_files = 0
+[2023-10-23T17:22:52.354210 14700] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:52.354210 14700] Config: (default) namespace = 
+[2023-10-23T17:22:52.354210 14700] Config: (default) path = 
+[2023-10-23T17:22:52.354210 14700] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) prefix_command = 
+[2023-10-23T17:22:52.354210 14700] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:52.354210 14700] Config: (default) read_only = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) read_only_direct = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) recache = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) reshare = false
+[2023-10-23T17:22:52.354210 14700] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:52.354210 14700] Config: (default) secondary_storage = 
+[2023-10-23T17:22:52.354210 14700] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:52.354210 14700] Config: (default) stats = true
+[2023-10-23T17:22:52.354210 14700] Config: (default) stats_log = 
+[2023-10-23T17:22:52.354210 14700] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:52.354210 14700] Config: (default) umask = 
+[2023-10-23T17:22:52.355211 14700] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.fastevent.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.fastevent.c
+[2023-10-23T17:22:52.358214 4316 ] Got result key from preprocessor
+[2023-10-23T17:22:52.358214 4316 ] Retrieved 812b4qt6cqj4th6pcpgp4cblrhadlooqk from primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/1/2b4qt6cqj4th6pcpgp4cblrhadlooqkR)
+[2023-10-23T17:22:52.359215 4316 ] Reading embedded entry #0 .o (15381 bytes)
+[2023-10-23T17:22:52.359215 4316 ] Writing to module.move.o
+[2023-10-23T17:22:52.359215 4316 ] Succeeded getting cached result
+[2023-10-23T17:22:52.359215 4316 ] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/6/0441hk8qdtav78nabiunacp2hug26roM
+[2023-10-23T17:22:52.360216 14700] Hostname: Parth
+[2023-10-23T17:22:52.360216 14700] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:52.360216 14700] Compiler type: gcc
+[2023-10-23T17:22:52.360216 14700] Source file: module.pygame.fastevent.c
+[2023-10-23T17:22:52.360216 14700] Object file: module.pygame.fastevent.o
+[2023-10-23T17:22:52.360216 5056 ] Got result key from preprocessor
+[2023-10-23T17:22:52.360216 14700] Trying direct lookup
+[2023-10-23T17:22:52.360216 5056 ] Retrieved 214a0qjg9ai577eb10tva8c95bp0trvk6 from primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/1/4a0qjg9ai577eb10tva8c95bp0trvk6R)
+[2023-10-23T17:22:52.361217 14700] No aa32q4iphk6673nir0a4kbd3bi03u2fdu in primary storage
+[2023-10-23T17:22:52.361217 5056 ] Reading embedded entry #0 .o (23872 bytes)
+[2023-10-23T17:22:52.361217 5056 ] Writing to module.dragger.o
+[2023-10-23T17:22:52.361217 5056 ] Succeeded getting cached result
+[2023-10-23T17:22:52.363219 1292 ] Got result key from preprocessor
+[2023-10-23T17:22:52.363219 1292 ] Retrieved efb5sijamhajr0hth2q5cr1he9bpvofo8 from primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/b5sijamhajr0hth2q5cr1he9bpvofo8R)
+[2023-10-23T17:22:52.363219 1292 ] Reading embedded entry #0 .o (173787 bytes)
+[2023-10-23T17:22:52.363219 1292 ] Writing to module.board.o
+[2023-10-23T17:22:52.364219 1292 ] Succeeded getting cached result
+[2023-10-23T17:22:52.365221 5056 ] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/c/a5pig4gaul1582hgd396ltdkfv6t8ngM
+[2023-10-23T17:22:52.366221 14700] Running preprocessor
+[2023-10-23T17:22:52.371226 1292 ] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/b7ea5treo796ftlqk8c3g72ec2fm8g0M
+[2023-10-23T17:22:52.395248 4316 ] Using default compression level 1
+[2023-10-23T17:22:52.397249 4316 ] Stored 560441hk8qdtav78nabiunacp2hug26ro in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/6/0441hk8qdtav78nabiunacp2hug26roM)
+[2023-10-23T17:22:52.397249 4316 ] Result: direct_cache_miss
+[2023-10-23T17:22:52.397249 4316 ] Result: preprocessed_cache_hit
+[2023-10-23T17:22:52.397249 4316 ] Result: primary_storage_hit
+[2023-10-23T17:22:52.397249 4316 ] Result: primary_storage_miss
+[2023-10-23T17:22:52.397249 4316 ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2023-10-23T17:22:52.398250 4316 ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2023-10-23T17:22:52.399251 4316 ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/c/stats.lock
+[2023-10-23T17:22:52.400252 4316 ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/c/stats.lock
+[2023-10-23T17:22:52.400252 4316 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.9YF2nu
+[2023-10-23T17:22:52.400252 4316 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.ib4iB7.i
+[2023-10-23T17:22:52.401253 4316 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.ib4iB7
+[2023-10-23T17:22:52.407258 16480] Got result key from preprocessor
+[2023-10-23T17:22:52.407258 16480] No 7521a7g4si70c74p1vvg7256emm59847c in primary storage
+[2023-10-23T17:22:52.407258 16480] Running real compiler
+[2023-10-23T17:22:52.407258 1292 ] Using default compression level 1
+[2023-10-23T17:22:52.409260 1292 ] Stored 3ab7ea5treo796ftlqk8c3g72ec2fm8g0 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/b7ea5treo796ftlqk8c3g72ec2fm8g0M)
+[2023-10-23T17:22:52.409260 1292 ] Result: direct_cache_miss
+[2023-10-23T17:22:52.409260 1292 ] Result: preprocessed_cache_hit
+[2023-10-23T17:22:52.409260 1292 ] Result: primary_storage_hit
+[2023-10-23T17:22:52.409260 1292 ] Result: primary_storage_miss
+[2023-10-23T17:22:52.409260 1292 ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-10-23T17:22:52.410261 1292 ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-10-23T17:22:52.411262 1292 ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/c/stats.lock
+[2023-10-23T17:22:52.412263 1292 ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/c/stats.lock
+[2023-10-23T17:22:52.412263 1292 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.AfkNTq
+[2023-10-23T17:22:52.412263 1292 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.mu6yPA.i
+[2023-10-23T17:22:52.413264 1292 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.mu6yPA
+[2023-10-23T17:22:52.418269 5056 ] Using default compression level 1
+[2023-10-23T17:22:52.419270 5056 ] Stored cca5pig4gaul1582hgd396ltdkfv6t8ng in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/c/a5pig4gaul1582hgd396ltdkfv6t8ngM)
+[2023-10-23T17:22:52.420271 5056 ] Result: direct_cache_miss
+[2023-10-23T17:22:52.420271 5056 ] Result: preprocessed_cache_hit
+[2023-10-23T17:22:52.420271 5056 ] Result: primary_storage_hit
+[2023-10-23T17:22:52.420271 5056 ] Result: primary_storage_miss
+[2023-10-23T17:22:52.420271 5056 ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-10-23T17:22:52.421272 5056 ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-10-23T17:22:52.421272 5056 ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/0/stats.lock
+[2023-10-23T17:22:52.422272 5056 ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/0/stats.lock
+[2023-10-23T17:22:52.422272 5056 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.XPRKAu
+[2023-10-23T17:22:52.422272 5056 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.dpKJzZ.i
+[2023-10-23T17:22:52.423273 5056 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.dpKJzZ
+[2023-10-23T17:22:52.449297 17144] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:52.449297 17144] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) base_dir = 
+[2023-10-23T17:22:52.449297 17144] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:52.449297 17144] Config: (default) compiler = 
+[2023-10-23T17:22:52.449297 17144] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:52.449297 17144] Config: (default) compiler_type = auto
+[2023-10-23T17:22:52.449297 17144] Config: (default) compression = true
+[2023-10-23T17:22:52.449297 17144] Config: (default) compression_level = 0
+[2023-10-23T17:22:52.449297 17144] Config: (default) cpp_extension = 
+[2023-10-23T17:22:52.449297 17144] Config: (default) debug = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) debug_dir = 
+[2023-10-23T17:22:52.449297 17144] Config: (default) depend_mode = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) direct_mode = true
+[2023-10-23T17:22:52.449297 17144] Config: (default) disable = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:52.449297 17144] Config: (default) file_clone = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) hard_link = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) hash_dir = true
+[2023-10-23T17:22:52.449297 17144] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:52.449297 17144] Config: (default) ignore_options = 
+[2023-10-23T17:22:52.449297 17144] Config: (default) inode_cache = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:52.449297 17144] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:52.449297 17144] Config: (default) max_files = 0
+[2023-10-23T17:22:52.449297 17144] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:52.449297 17144] Config: (default) namespace = 
+[2023-10-23T17:22:52.449297 17144] Config: (default) path = 
+[2023-10-23T17:22:52.449297 17144] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) prefix_command = 
+[2023-10-23T17:22:52.449297 17144] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:52.449297 17144] Config: (default) read_only = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) read_only_direct = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) recache = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) reshare = false
+[2023-10-23T17:22:52.449297 17144] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:52.449297 17144] Config: (default) secondary_storage = 
+[2023-10-23T17:22:52.449297 17144] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:52.449297 17144] Config: (default) stats = true
+[2023-10-23T17:22:52.449297 17144] Config: (default) stats_log = 
+[2023-10-23T17:22:52.449297 17144] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:52.449297 17144] Config: (default) umask = 
+[2023-10-23T17:22:52.450298 17144] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.ftfont.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.ftfont.c
+[2023-10-23T17:22:52.455302 12312] Got result key from preprocessor
+[2023-10-23T17:22:52.455302 17144] Hostname: Parth
+[2023-10-23T17:22:52.455302 17144] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:52.455302 17144] Compiler type: gcc
+[2023-10-23T17:22:52.455302 12312] No b3709mp2pov7jhvdovcohce43p0bsl42s in primary storage
+[2023-10-23T17:22:52.455302 12312] Running real compiler
+[2023-10-23T17:22:52.455302 17144] Source file: module.pygame.ftfont.c
+[2023-10-23T17:22:52.455302 17144] Object file: module.pygame.ftfont.o
+[2023-10-23T17:22:52.456303 17144] Trying direct lookup
+[2023-10-23T17:22:52.456303 17144] No 7530494bqa1bvlaj6ibnr1gdsv83oedls in primary storage
+[2023-10-23T17:22:52.458305 17144] Running preprocessor
+[2023-10-23T17:22:52.464310 19012] Got result key from preprocessor
+[2023-10-23T17:22:52.464310 19012] Retrieved e07c3s7voufi9lmprf2eb8p2qq1m1knmc from primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/0/7c3s7voufi9lmprf2eb8p2qq1m1knmcR)
+[2023-10-23T17:22:52.465311 19012] Reading embedded entry #0 .o (6439 bytes)
+[2023-10-23T17:22:52.465311 19012] Writing to module.const.o
+[2023-10-23T17:22:52.466312 19012] Succeeded getting cached result
+[2023-10-23T17:22:52.466312 19012] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/4/63e1gm99jtc5l0mhlf3tmqbi5g3ij3mM
+[2023-10-23T17:22:52.468314 17184] Got result key from preprocessor
+[2023-10-23T17:22:52.468314 17184] Retrieved b4f7a798ip2n8l36r2fu05rc65eppdd74 from primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/4/f7a798ip2n8l36r2fu05rc65eppdd74R)
+[2023-10-23T17:22:52.468314 17184] Reading embedded entry #0 .o (51265 bytes)
+[2023-10-23T17:22:52.469316 17184] Writing to module.game.o
+[2023-10-23T17:22:52.470316 17184] Succeeded getting cached result
+[2023-10-23T17:22:52.471317 17184] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/d/d48ii8gh7ts68rpbemj0fq4rb5ab826M
+[2023-10-23T17:22:52.481326 17864] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:52.481326 17864] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) base_dir = 
+[2023-10-23T17:22:52.481326 17864] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:52.481326 17864] Config: (default) compiler = 
+[2023-10-23T17:22:52.481326 17864] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:52.481326 17864] Config: (default) compiler_type = auto
+[2023-10-23T17:22:52.481326 17864] Config: (default) compression = true
+[2023-10-23T17:22:52.481326 17864] Config: (default) compression_level = 0
+[2023-10-23T17:22:52.481326 17864] Config: (default) cpp_extension = 
+[2023-10-23T17:22:52.481326 17864] Config: (default) debug = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) debug_dir = 
+[2023-10-23T17:22:52.481326 17864] Config: (default) depend_mode = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) direct_mode = true
+[2023-10-23T17:22:52.481326 17864] Config: (default) disable = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:52.481326 17864] Config: (default) file_clone = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) hard_link = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) hash_dir = true
+[2023-10-23T17:22:52.481326 17864] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:52.481326 17864] Config: (default) ignore_options = 
+[2023-10-23T17:22:52.481326 17864] Config: (default) inode_cache = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:52.481326 17864] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:52.481326 17864] Config: (default) max_files = 0
+[2023-10-23T17:22:52.481326 17864] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:52.481326 17864] Config: (default) namespace = 
+[2023-10-23T17:22:52.481326 17864] Config: (default) path = 
+[2023-10-23T17:22:52.481326 17864] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) prefix_command = 
+[2023-10-23T17:22:52.481326 17864] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:52.481326 17864] Config: (default) read_only = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) read_only_direct = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) recache = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) reshare = false
+[2023-10-23T17:22:52.481326 17864] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:52.481326 17864] Config: (default) secondary_storage = 
+[2023-10-23T17:22:52.481326 17864] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:52.481326 17864] Config: (default) stats = true
+[2023-10-23T17:22:52.481326 17864] Config: (default) stats_log = 
+[2023-10-23T17:22:52.481326 17864] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:52.481326 17864] Config: (default) umask = 
+[2023-10-23T17:22:52.481326 17864] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.macosx.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.macosx.c
+[2023-10-23T17:22:52.486331 17864] Hostname: Parth
+[2023-10-23T17:22:52.486331 17864] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:52.486331 17864] Compiler type: gcc
+[2023-10-23T17:22:52.487332 17864] Source file: module.pygame.macosx.c
+[2023-10-23T17:22:52.487332 17864] Object file: module.pygame.macosx.o
+[2023-10-23T17:22:52.487332 17864] Trying direct lookup
+[2023-10-23T17:22:52.487332 17864] No 3f71i8muo2d23rhmmgae49c84egk66ps4 in primary storage
+[2023-10-23T17:22:52.491335 15856] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:52.491335 15856] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) base_dir = 
+[2023-10-23T17:22:52.491335 15856] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:52.491335 15856] Config: (default) compiler = 
+[2023-10-23T17:22:52.491335 15856] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:52.491335 15856] Config: (default) compiler_type = auto
+[2023-10-23T17:22:52.491335 15856] Config: (default) compression = true
+[2023-10-23T17:22:52.491335 15856] Config: (default) compression_level = 0
+[2023-10-23T17:22:52.491335 15856] Config: (default) cpp_extension = 
+[2023-10-23T17:22:52.491335 15856] Config: (default) debug = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) debug_dir = 
+[2023-10-23T17:22:52.491335 15856] Config: (default) depend_mode = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) direct_mode = true
+[2023-10-23T17:22:52.491335 15856] Config: (default) disable = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:52.491335 15856] Config: (default) file_clone = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) hard_link = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) hash_dir = true
+[2023-10-23T17:22:52.491335 15856] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:52.491335 15856] Config: (default) ignore_options = 
+[2023-10-23T17:22:52.491335 15856] Config: (default) inode_cache = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:52.491335 15856] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:52.491335 15856] Config: (default) max_files = 0
+[2023-10-23T17:22:52.491335 15856] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:52.491335 15856] Config: (default) namespace = 
+[2023-10-23T17:22:52.491335 15856] Config: (default) path = 
+[2023-10-23T17:22:52.491335 15856] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) prefix_command = 
+[2023-10-23T17:22:52.491335 15856] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:52.491335 15856] Config: (default) read_only = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) read_only_direct = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) recache = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) reshare = false
+[2023-10-23T17:22:52.491335 15856] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:52.491335 15856] Config: (default) secondary_storage = 
+[2023-10-23T17:22:52.491335 15856] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:52.491335 15856] Config: (default) stats = true
+[2023-10-23T17:22:52.491335 15856] Config: (default) stats_log = 
+[2023-10-23T17:22:52.491335 15856] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:52.491335 15856] Config: (default) umask = 
+[2023-10-23T17:22:52.491335 15856] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.pkgdata.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.pkgdata.c
+[2023-10-23T17:22:52.492336 17864] Running preprocessor
+[2023-10-23T17:22:52.496339 15856] Hostname: Parth
+[2023-10-23T17:22:52.496339 15856] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:52.496339 15856] Compiler type: gcc
+[2023-10-23T17:22:52.496339 15856] Source file: module.pygame.pkgdata.c
+[2023-10-23T17:22:52.496339 15856] Object file: module.pygame.pkgdata.o
+[2023-10-23T17:22:52.497340 15856] Trying direct lookup
+[2023-10-23T17:22:52.497340 15856] No 5e10i62tbbugii1a39dk24jptk16mp34c in primary storage
+[2023-10-23T17:22:52.498341 15856] Running preprocessor
+[2023-10-23T17:22:52.507350 19012] Using default compression level 1
+[2023-10-23T17:22:52.509352 19012] Stored a463e1gm99jtc5l0mhlf3tmqbi5g3ij3m in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/4/63e1gm99jtc5l0mhlf3tmqbi5g3ij3mM)
+[2023-10-23T17:22:52.509352 19012] Result: direct_cache_miss
+[2023-10-23T17:22:52.509352 19012] Result: preprocessed_cache_hit
+[2023-10-23T17:22:52.509352 19012] Result: primary_storage_hit
+[2023-10-23T17:22:52.509352 19012] Result: primary_storage_miss
+[2023-10-23T17:22:52.509352 19012] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-10-23T17:22:52.510352 19012] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-10-23T17:22:52.512354 19012] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/4/stats.lock
+[2023-10-23T17:22:52.512354 19012] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/4/stats.lock
+[2023-10-23T17:22:52.512354 19012] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.IbHTa2
+[2023-10-23T17:22:52.513356 19012] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.jN9gNl.i
+[2023-10-23T17:22:52.513356 19012] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.jN9gNl
+[2023-10-23T17:22:52.517359 17184] Using default compression level 1
+[2023-10-23T17:22:52.519360 17184] Stored fdd48ii8gh7ts68rpbemj0fq4rb5ab826 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/d/d48ii8gh7ts68rpbemj0fq4rb5ab826M)
+[2023-10-23T17:22:52.519360 17184] Result: direct_cache_miss
+[2023-10-23T17:22:52.519360 17184] Result: preprocessed_cache_hit
+[2023-10-23T17:22:52.519360 17184] Result: primary_storage_hit
+[2023-10-23T17:22:52.519360 17184] Result: primary_storage_miss
+[2023-10-23T17:22:52.519360 17184] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-10-23T17:22:52.520361 17184] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-10-23T17:22:52.520361 17184] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/0/stats.lock
+[2023-10-23T17:22:52.521362 17184] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/0/stats.lock
+[2023-10-23T17:22:52.521362 17184] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.AHK3mQ
+[2023-10-23T17:22:52.522363 17184] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.EfId5V.i
+[2023-10-23T17:22:52.522363 17184] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.EfId5V
+[2023-10-23T17:22:52.569406 5408 ] Got result key from preprocessor
+[2023-10-23T17:22:52.569406 5408 ] No d35c1e59earvujsd5cvjsq1tf6l66tm48 in primary storage
+[2023-10-23T17:22:52.569406 5408 ] Running real compiler
+[2023-10-23T17:22:52.673501 12256] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:52.673501 12256] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) base_dir = 
+[2023-10-23T17:22:52.673501 12256] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:52.673501 12256] Config: (default) compiler = 
+[2023-10-23T17:22:52.673501 12256] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:52.673501 12256] Config: (default) compiler_type = auto
+[2023-10-23T17:22:52.673501 12256] Config: (default) compression = true
+[2023-10-23T17:22:52.673501 12256] Config: (default) compression_level = 0
+[2023-10-23T17:22:52.673501 12256] Config: (default) cpp_extension = 
+[2023-10-23T17:22:52.673501 12256] Config: (default) debug = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) debug_dir = 
+[2023-10-23T17:22:52.673501 12256] Config: (default) depend_mode = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) direct_mode = true
+[2023-10-23T17:22:52.673501 12256] Config: (default) disable = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:52.673501 12256] Config: (default) file_clone = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) hard_link = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) hash_dir = true
+[2023-10-23T17:22:52.673501 12256] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:52.673501 12256] Config: (default) ignore_options = 
+[2023-10-23T17:22:52.673501 12256] Config: (default) inode_cache = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:52.673501 12256] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:52.673501 12256] Config: (default) max_files = 0
+[2023-10-23T17:22:52.673501 12256] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:52.673501 12256] Config: (default) namespace = 
+[2023-10-23T17:22:52.673501 12256] Config: (default) path = 
+[2023-10-23T17:22:52.673501 12256] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) prefix_command = 
+[2023-10-23T17:22:52.673501 12256] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:52.673501 12256] Config: (default) read_only = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) read_only_direct = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) recache = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) reshare = false
+[2023-10-23T17:22:52.673501 12256] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:52.673501 12256] Config: (default) secondary_storage = 
+[2023-10-23T17:22:52.673501 12256] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:52.673501 12256] Config: (default) stats = true
+[2023-10-23T17:22:52.673501 12256] Config: (default) stats_log = 
+[2023-10-23T17:22:52.673501 12256] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:52.673501 12256] Config: (default) umask = 
+[2023-10-23T17:22:52.673501 12256] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.sndarray.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.sndarray.c
+[2023-10-23T17:22:52.678505 12256] Hostname: Parth
+[2023-10-23T17:22:52.678505 12256] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:52.678505 12256] Compiler type: gcc
+[2023-10-23T17:22:52.679506 12256] Source file: module.pygame.sndarray.c
+[2023-10-23T17:22:52.679506 12256] Object file: module.pygame.sndarray.o
+[2023-10-23T17:22:52.679506 12256] Trying direct lookup
+[2023-10-23T17:22:52.679506 12256] No 1488jlnhl4gi8lodi7tikn2fmtpv6p8s4 in primary storage
+[2023-10-23T17:22:52.681508 12256] Running preprocessor
+[2023-10-23T17:22:52.689515 17500] Got result key from preprocessor
+[2023-10-23T17:22:52.689515 17500] No 87c7dlg5bf80a0qiu7n5i7gc6763ijpho in primary storage
+[2023-10-23T17:22:52.689515 17500] Running real compiler
+[2023-10-23T17:22:52.725548 11748] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:52.725548 11748] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) base_dir = 
+[2023-10-23T17:22:52.725548 11748] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:52.725548 11748] Config: (default) compiler = 
+[2023-10-23T17:22:52.725548 11748] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:52.725548 11748] Config: (default) compiler_type = auto
+[2023-10-23T17:22:52.725548 11748] Config: (default) compression = true
+[2023-10-23T17:22:52.725548 11748] Config: (default) compression_level = 0
+[2023-10-23T17:22:52.725548 11748] Config: (default) cpp_extension = 
+[2023-10-23T17:22:52.725548 11748] Config: (default) debug = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) debug_dir = 
+[2023-10-23T17:22:52.725548 11748] Config: (default) depend_mode = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) direct_mode = true
+[2023-10-23T17:22:52.725548 11748] Config: (default) disable = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:52.725548 11748] Config: (default) file_clone = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) hard_link = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) hash_dir = true
+[2023-10-23T17:22:52.725548 11748] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:52.725548 11748] Config: (default) ignore_options = 
+[2023-10-23T17:22:52.725548 11748] Config: (default) inode_cache = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:52.725548 11748] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:52.725548 11748] Config: (default) max_files = 0
+[2023-10-23T17:22:52.725548 11748] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:52.725548 11748] Config: (default) namespace = 
+[2023-10-23T17:22:52.725548 11748] Config: (default) path = 
+[2023-10-23T17:22:52.725548 11748] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) prefix_command = 
+[2023-10-23T17:22:52.725548 11748] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:52.725548 11748] Config: (default) read_only = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) read_only_direct = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) recache = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) reshare = false
+[2023-10-23T17:22:52.725548 11748] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:52.725548 11748] Config: (default) secondary_storage = 
+[2023-10-23T17:22:52.725548 11748] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:52.725548 11748] Config: (default) stats = true
+[2023-10-23T17:22:52.725548 11748] Config: (default) stats_log = 
+[2023-10-23T17:22:52.725548 11748] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:52.725548 11748] Config: (default) umask = 
+[2023-10-23T17:22:52.725548 11748] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.sprite.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.sprite.c
+[2023-10-23T17:22:52.735557 11748] Hostname: Parth
+[2023-10-23T17:22:52.735557 11748] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:52.735557 11748] Compiler type: gcc
+[2023-10-23T17:22:52.735557 11748] Source file: module.pygame.sprite.c
+[2023-10-23T17:22:52.735557 11748] Object file: module.pygame.sprite.o
+[2023-10-23T17:22:52.735557 11748] Trying direct lookup
+[2023-10-23T17:22:52.738560 11748] No b379go48e8gqltp3o232joj6d8ov299mi in primary storage
+[2023-10-23T17:22:52.740562 11748] Running preprocessor
+[2023-10-23T17:22:53.423183 14700] Got result key from preprocessor
+[2023-10-23T17:22:53.429188 14700] No bef7m2a47s96ev01gum6qnsqbs4pa8uv0 in primary storage
+[2023-10-23T17:22:53.429188 14700] Running real compiler
+[2023-10-23T17:22:53.526277 11324] Got result key from preprocessor
+[2023-10-23T17:22:53.526277 11324] No c90023jnd1nnddfm5b7i0m6dp5m6qcbjs in primary storage
+[2023-10-23T17:22:53.526277 11324] Running real compiler
+[2023-10-23T17:22:53.558305 17144] Got result key from preprocessor
+[2023-10-23T17:22:53.559306 17144] No f0dc86122tibodhti7q3jged03flhv8ru in primary storage
+[2023-10-23T17:22:53.559306 17144] Running real compiler
+[2023-10-23T17:22:53.597341 15856] Got result key from preprocessor
+[2023-10-23T17:22:53.597341 15856] No ffb24jaavtb9l0jq5je7et8terjt6j2a4 in primary storage
+[2023-10-23T17:22:53.597341 15856] Running real compiler
+[2023-10-23T17:22:53.648387 17864] Got result key from preprocessor
+[2023-10-23T17:22:53.649388 17864] No 63d9ksih16ev11nlr6aedisearmnur75c in primary storage
+[2023-10-23T17:22:53.649388 17864] Running real compiler
+[2023-10-23T17:22:53.783510 12256] Got result key from preprocessor
+[2023-10-23T17:22:53.784511 12256] No 7a62767movf6lqj3pdue8q0t8s62t8ks2 in primary storage
+[2023-10-23T17:22:53.784511 12256] Running real compiler
+[2023-10-23T17:22:53.965676 17500] Using default compression level 1
+[2023-10-23T17:22:53.965676 17500] Storing embedded entry #0 .o (6013 bytes) from module.pygame.colordict.o
+[2023-10-23T17:22:53.966677 17500] Stored 87c7dlg5bf80a0qiu7n5i7gc6763ijpho in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/7/c7dlg5bf80a0qiu7n5i7gc6763ijphoR)
+[2023-10-23T17:22:53.966677 17500] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/a/fenioj1stv91pnd17p11p26u318luqoM
+[2023-10-23T17:22:53.969679 11748] Got result key from preprocessor
+[2023-10-23T17:22:53.969679 11748] No cf9ebp3e0rimdjtukq85bs186oqgudqrs in primary storage
+[2023-10-23T17:22:53.969679 11748] Running real compiler
+[2023-10-23T17:22:53.992700 17500] Using default compression level 1
+[2023-10-23T17:22:53.994702 17500] Stored 8afenioj1stv91pnd17p11p26u318luqo in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/a/fenioj1stv91pnd17p11p26u318luqoM)
+[2023-10-23T17:22:53.994702 17500] Result: cache_miss
+[2023-10-23T17:22:53.994702 17500] Result: direct_cache_miss
+[2023-10-23T17:22:53.994702 17500] Result: preprocessed_cache_miss
+[2023-10-23T17:22:53.994702 17500] Result: primary_storage_miss
+[2023-10-23T17:22:53.994702 17500] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2023-10-23T17:22:53.995703 17500] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2023-10-23T17:22:53.996704 17500] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2023-10-23T17:22:54.003710 17500] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2023-10-23T17:22:54.003710 17500] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.WDMSB2
+[2023-10-23T17:22:54.004711 17500] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.BEzOAc
+[2023-10-23T17:22:54.004711 17500] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.BgnhAB
+[2023-10-23T17:22:54.004711 17500] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.K3kNnG.i
+[2023-10-23T17:22:54.005712 17500] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.K3kNnG
+[2023-10-23T17:22:54.069770 1664 ] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) base_dir = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) compiler = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) compiler_type = auto
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) compression = true
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) compression_level = 0
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) cpp_extension = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) debug = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) debug_dir = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) depend_mode = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) direct_mode = true
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) disable = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) file_clone = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) hard_link = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) hash_dir = true
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) ignore_options = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) inode_cache = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:54.069770 1664 ] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) max_files = 0
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) namespace = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) path = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) prefix_command = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) read_only = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) read_only_direct = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) recache = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) reshare = false
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) secondary_storage = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) stats = true
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) stats_log = 
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:54.069770 1664 ] Config: (default) umask = 
+[2023-10-23T17:22:54.070772 1664 ] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.surfarray.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.surfarray.c
+[2023-10-23T17:22:54.075776 1664 ] Hostname: Parth
+[2023-10-23T17:22:54.075776 1664 ] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:54.075776 1664 ] Compiler type: gcc
+[2023-10-23T17:22:54.076777 1664 ] Source file: module.pygame.surfarray.c
+[2023-10-23T17:22:54.076777 1664 ] Object file: module.pygame.surfarray.o
+[2023-10-23T17:22:54.076777 1664 ] Trying direct lookup
+[2023-10-23T17:22:54.077778 1664 ] No 91f5v99et6pr3h1v9gd1dtc1hi7mlc6o4 in primary storage
+[2023-10-23T17:22:54.078779 1664 ] Running preprocessor
+[2023-10-23T17:22:54.218906 12312] Using default compression level 1
+[2023-10-23T17:22:54.218906 12312] Storing embedded entry #0 .o (25765 bytes) from module.pkg_resources-postLoad.o
+[2023-10-23T17:22:54.219907 12312] Stored b3709mp2pov7jhvdovcohce43p0bsl42s in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/3/709mp2pov7jhvdovcohce43p0bsl42sR)
+[2023-10-23T17:22:54.219907 12312] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/e/2859mp54psgedhketjtrrg5laae1p7aM
+[2023-10-23T17:22:54.245931 12312] Using default compression level 1
+[2023-10-23T17:22:54.247932 12312] Stored 6e2859mp54psgedhketjtrrg5laae1p7a in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/e/2859mp54psgedhketjtrrg5laae1p7aM)
+[2023-10-23T17:22:54.247932 12312] Result: cache_miss
+[2023-10-23T17:22:54.247932 12312] Result: direct_cache_miss
+[2023-10-23T17:22:54.247932 12312] Result: preprocessed_cache_miss
+[2023-10-23T17:22:54.247932 12312] Result: primary_storage_miss
+[2023-10-23T17:22:54.247932 12312] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-10-23T17:22:54.248933 12312] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-10-23T17:22:54.248933 12312] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2023-10-23T17:22:54.249935 12312] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2023-10-23T17:22:54.254939 12312] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.wjBQ3P
+[2023-10-23T17:22:54.254939 12312] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.87U6FI
+[2023-10-23T17:22:54.254939 12312] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.iVu04K
+[2023-10-23T17:22:54.254939 12312] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.ac3BuG.i
+[2023-10-23T17:22:54.255940 12312] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.ac3BuG
+[2023-10-23T17:22:54.971591 17864] Using default compression level 1
+[2023-10-23T17:22:54.972592 17864] Storing embedded entry #0 .o (10862 bytes) from module.pygame.macosx.o
+[2023-10-23T17:22:54.973592 17864] Stored 63d9ksih16ev11nlr6aedisearmnur75c in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/3/d9ksih16ev11nlr6aedisearmnur75cR)
+[2023-10-23T17:22:54.973592 17864] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/f/71i8muo2d23rhmmgae49c84egk66ps4M
+[2023-10-23T17:22:54.995612 16480] Using default compression level 1
+[2023-10-23T17:22:54.995612 16480] Storing embedded entry #0 .o (56708 bytes) from module.piece.o
+[2023-10-23T17:22:54.997615 17864] Using default compression level 1
+[2023-10-23T17:22:54.997615 16480] Stored 7521a7g4si70c74p1vvg7256emm59847c in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/5/21a7g4si70c74p1vvg7256emm59847cR)
+[2023-10-23T17:22:54.998615 16480] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/a/226fuigkbm7ba0ien0vhnto4k1i4fa2M
+[2023-10-23T17:22:54.999616 17864] Stored 3f71i8muo2d23rhmmgae49c84egk66ps4 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/f/71i8muo2d23rhmmgae49c84egk66ps4M)
+[2023-10-23T17:22:54.999616 17864] Result: cache_miss
+[2023-10-23T17:22:54.999616 17864] Result: direct_cache_miss
+[2023-10-23T17:22:54.999616 17864] Result: preprocessed_cache_miss
+[2023-10-23T17:22:54.999616 17864] Result: primary_storage_miss
+[2023-10-23T17:22:54.999616 17864] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-10-23T17:22:55.001618 17864] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-10-23T17:22:55.001618 17864] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-10-23T17:22:55.001618 14700] Using default compression level 1
+[2023-10-23T17:22:55.001618 14700] Storing embedded entry #0 .o (22545 bytes) from module.pygame.fastevent.o
+[2023-10-23T17:22:55.002619 17864] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-10-23T17:22:55.002619 17864] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.WpWvAH
+[2023-10-23T17:22:55.002619 17864] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.ywS6fK
+[2023-10-23T17:22:55.002619 14700] Stored bef7m2a47s96ev01gum6qnsqbs4pa8uv0 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/e/f7m2a47s96ev01gum6qnsqbs4pa8uv0R)
+[2023-10-23T17:22:55.003620 17864] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.YMBKSL.i
+[2023-10-23T17:22:55.003620 14700] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/a/32q4iphk6673nir0a4kbd3bi03u2fduM
+[2023-10-23T17:22:55.003620 17864] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.YMBKSL
+[2023-10-23T17:22:55.024639 16480] Using default compression level 1
+[2023-10-23T17:22:55.026640 16480] Stored 1a226fuigkbm7ba0ien0vhnto4k1i4fa2 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/a/226fuigkbm7ba0ien0vhnto4k1i4fa2M)
+[2023-10-23T17:22:55.026640 16480] Result: cache_miss
+[2023-10-23T17:22:55.026640 16480] Result: direct_cache_miss
+[2023-10-23T17:22:55.026640 16480] Result: preprocessed_cache_miss
+[2023-10-23T17:22:55.026640 16480] Result: primary_storage_miss
+[2023-10-23T17:22:55.026640 16480] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2023-10-23T17:22:55.027642 16480] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2023-10-23T17:22:55.033648 14700] Using default compression level 1
+[2023-10-23T17:22:55.034649 16480] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-10-23T17:22:55.035649 14700] Stored aa32q4iphk6673nir0a4kbd3bi03u2fdu in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/a/32q4iphk6673nir0a4kbd3bi03u2fduM)
+[2023-10-23T17:22:55.035649 14700] Result: cache_miss
+[2023-10-23T17:22:55.035649 14700] Result: direct_cache_miss
+[2023-10-23T17:22:55.035649 14700] Result: preprocessed_cache_miss
+[2023-10-23T17:22:55.035649 14700] Result: primary_storage_miss
+[2023-10-23T17:22:55.035649 14700] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-10-23T17:22:55.036650 16480] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-10-23T17:22:55.036650 16480] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.99Vdti
+[2023-10-23T17:22:55.036650 16480] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.2JPfz7
+[2023-10-23T17:22:55.036650 14700] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-10-23T17:22:55.037651 16480] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.9dYNgy
+[2023-10-23T17:22:55.037651 16480] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.hW5fEG.i
+[2023-10-23T17:22:55.037651 14700] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2023-10-23T17:22:55.037651 16480] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.hW5fEG
+[2023-10-23T17:22:55.038652 14700] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2023-10-23T17:22:55.038652 14700] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.UrvlId
+[2023-10-23T17:22:55.038652 14700] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.4RKpPh
+[2023-10-23T17:22:55.038652 14700] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.D44z2e
+[2023-10-23T17:22:55.038652 14700] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.Hx6IkO.i
+[2023-10-23T17:22:55.039653 14700] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.Hx6IkO
+[2023-10-23T17:22:55.061673 16256] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:55.061673 16256] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) base_dir = 
+[2023-10-23T17:22:55.061673 16256] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:55.061673 16256] Config: (default) compiler = 
+[2023-10-23T17:22:55.061673 16256] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:55.061673 16256] Config: (default) compiler_type = auto
+[2023-10-23T17:22:55.061673 16256] Config: (default) compression = true
+[2023-10-23T17:22:55.061673 16256] Config: (default) compression_level = 0
+[2023-10-23T17:22:55.061673 16256] Config: (default) cpp_extension = 
+[2023-10-23T17:22:55.061673 16256] Config: (default) debug = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) debug_dir = 
+[2023-10-23T17:22:55.061673 16256] Config: (default) depend_mode = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) direct_mode = true
+[2023-10-23T17:22:55.061673 16256] Config: (default) disable = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:55.061673 16256] Config: (default) file_clone = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) hard_link = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) hash_dir = true
+[2023-10-23T17:22:55.061673 16256] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:55.061673 16256] Config: (default) ignore_options = 
+[2023-10-23T17:22:55.061673 16256] Config: (default) inode_cache = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:55.061673 16256] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:55.061673 16256] Config: (default) max_files = 0
+[2023-10-23T17:22:55.061673 16256] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:55.061673 16256] Config: (default) namespace = 
+[2023-10-23T17:22:55.061673 16256] Config: (default) path = 
+[2023-10-23T17:22:55.061673 16256] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) prefix_command = 
+[2023-10-23T17:22:55.061673 16256] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:55.061673 16256] Config: (default) read_only = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) read_only_direct = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) recache = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) reshare = false
+[2023-10-23T17:22:55.061673 16256] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:55.061673 16256] Config: (default) secondary_storage = 
+[2023-10-23T17:22:55.061673 16256] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:55.061673 16256] Config: (default) stats = true
+[2023-10-23T17:22:55.061673 16256] Config: (default) stats_log = 
+[2023-10-23T17:22:55.061673 16256] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:55.061673 16256] Config: (default) umask = 
+[2023-10-23T17:22:55.061673 16256] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.sysfont.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.sysfont.c
+[2023-10-23T17:22:55.067679 16256] Hostname: Parth
+[2023-10-23T17:22:55.067679 16256] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:55.067679 16256] Compiler type: gcc
+[2023-10-23T17:22:55.067679 16256] Source file: module.pygame.sysfont.c
+[2023-10-23T17:22:55.067679 16256] Object file: module.pygame.sysfont.o
+[2023-10-23T17:22:55.067679 16256] Trying direct lookup
+[2023-10-23T17:22:55.068679 16256] No 14929lm0tlp2sbqub1ppqngq4jro1kiag in primary storage
+[2023-10-23T17:22:55.070681 16256] Running preprocessor
+[2023-10-23T17:22:55.097706 16660] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:55.097706 16660] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) base_dir = 
+[2023-10-23T17:22:55.097706 16660] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:55.097706 16660] Config: (default) compiler = 
+[2023-10-23T17:22:55.097706 16660] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:55.097706 16660] Config: (default) compiler_type = auto
+[2023-10-23T17:22:55.097706 16660] Config: (default) compression = true
+[2023-10-23T17:22:55.097706 16660] Config: (default) compression_level = 0
+[2023-10-23T17:22:55.097706 16660] Config: (default) cpp_extension = 
+[2023-10-23T17:22:55.097706 16660] Config: (default) debug = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) debug_dir = 
+[2023-10-23T17:22:55.097706 16660] Config: (default) depend_mode = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) direct_mode = true
+[2023-10-23T17:22:55.097706 16660] Config: (default) disable = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:55.097706 16660] Config: (default) file_clone = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) hard_link = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) hash_dir = true
+[2023-10-23T17:22:55.097706 16660] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:55.097706 16660] Config: (default) ignore_options = 
+[2023-10-23T17:22:55.097706 16660] Config: (default) inode_cache = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:55.097706 16660] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:55.097706 16660] Config: (default) max_files = 0
+[2023-10-23T17:22:55.097706 16660] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:55.097706 16660] Config: (default) namespace = 
+[2023-10-23T17:22:55.097706 16660] Config: (default) path = 
+[2023-10-23T17:22:55.097706 16660] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) prefix_command = 
+[2023-10-23T17:22:55.097706 16660] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:55.097706 16660] Config: (default) read_only = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) read_only_direct = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) recache = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) reshare = false
+[2023-10-23T17:22:55.097706 16660] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:55.097706 16660] Config: (default) secondary_storage = 
+[2023-10-23T17:22:55.097706 16660] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:55.097706 16660] Config: (default) stats = true
+[2023-10-23T17:22:55.097706 16660] Config: (default) stats_log = 
+[2023-10-23T17:22:55.097706 16660] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:55.097706 16660] Config: (default) umask = 
+[2023-10-23T17:22:55.097706 16660] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.threads.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.threads.c
+[2023-10-23T17:22:55.102710 16660] Hostname: Parth
+[2023-10-23T17:22:55.102710 16660] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:55.102710 16660] Compiler type: gcc
+[2023-10-23T17:22:55.103711 16660] Source file: module.pygame.threads.c
+[2023-10-23T17:22:55.103711 16660] Object file: module.pygame.threads.o
+[2023-10-23T17:22:55.103711 16660] Trying direct lookup
+[2023-10-23T17:22:55.104712 16660] No 37a2ds7jvbk8i6k89co87598qt88ghbge in primary storage
+[2023-10-23T17:22:55.105713 16660] Running preprocessor
+[2023-10-23T17:22:55.110718 1664 ] Got result key from preprocessor
+[2023-10-23T17:22:55.110718 1664 ] No 5f716459m13ks130nml9tctlrrc4taojq in primary storage
+[2023-10-23T17:22:55.111718 1664 ] Running real compiler
+[2023-10-23T17:22:55.117724 15232] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:55.117724 15232] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) base_dir = 
+[2023-10-23T17:22:55.117724 15232] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:55.117724 15232] Config: (default) compiler = 
+[2023-10-23T17:22:55.117724 15232] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:55.117724 15232] Config: (default) compiler_type = auto
+[2023-10-23T17:22:55.117724 15232] Config: (default) compression = true
+[2023-10-23T17:22:55.117724 15232] Config: (default) compression_level = 0
+[2023-10-23T17:22:55.117724 15232] Config: (default) cpp_extension = 
+[2023-10-23T17:22:55.117724 15232] Config: (default) debug = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) debug_dir = 
+[2023-10-23T17:22:55.117724 15232] Config: (default) depend_mode = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) direct_mode = true
+[2023-10-23T17:22:55.117724 15232] Config: (default) disable = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:55.117724 15232] Config: (default) file_clone = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) hard_link = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) hash_dir = true
+[2023-10-23T17:22:55.117724 15232] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:55.117724 15232] Config: (default) ignore_options = 
+[2023-10-23T17:22:55.117724 15232] Config: (default) inode_cache = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:55.117724 15232] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:55.117724 15232] Config: (default) max_files = 0
+[2023-10-23T17:22:55.117724 15232] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:55.117724 15232] Config: (default) namespace = 
+[2023-10-23T17:22:55.117724 15232] Config: (default) path = 
+[2023-10-23T17:22:55.117724 15232] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) prefix_command = 
+[2023-10-23T17:22:55.117724 15232] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:55.117724 15232] Config: (default) read_only = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) read_only_direct = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) recache = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) reshare = false
+[2023-10-23T17:22:55.117724 15232] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:55.117724 15232] Config: (default) secondary_storage = 
+[2023-10-23T17:22:55.117724 15232] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:55.117724 15232] Config: (default) stats = true
+[2023-10-23T17:22:55.117724 15232] Config: (default) stats_log = 
+[2023-10-23T17:22:55.117724 15232] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:55.117724 15232] Config: (default) umask = 
+[2023-10-23T17:22:55.117724 15232] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.pygame.version.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.pygame.version.c
+[2023-10-23T17:22:55.123729 15232] Hostname: Parth
+[2023-10-23T17:22:55.123729 15232] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:55.123729 15232] Compiler type: gcc
+[2023-10-23T17:22:55.123729 15232] Source file: module.pygame.version.c
+[2023-10-23T17:22:55.123729 15232] Object file: module.pygame.version.o
+[2023-10-23T17:22:55.124730 15232] Trying direct lookup
+[2023-10-23T17:22:55.124730 15232] No 2224satvrtbn346s1ls1qqcoo8hf559l4 in primary storage
+[2023-10-23T17:22:55.125731 15232] Running preprocessor
+[2023-10-23T17:22:55.180781 15856] Using default compression level 1
+[2023-10-23T17:22:55.180781 15856] Storing embedded entry #0 .o (18471 bytes) from module.pygame.pkgdata.o
+[2023-10-23T17:22:55.181781 15856] Stored ffb24jaavtb9l0jq5je7et8terjt6j2a4 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/f/b24jaavtb9l0jq5je7et8terjt6j2a4R)
+[2023-10-23T17:22:55.181781 15856] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/e/10i62tbbugii1a39dk24jptk16mp34cM
+[2023-10-23T17:22:55.207805 15856] Using default compression level 1
+[2023-10-23T17:22:55.209807 15856] Stored 5e10i62tbbugii1a39dk24jptk16mp34c in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/e/10i62tbbugii1a39dk24jptk16mp34cM)
+[2023-10-23T17:22:55.209807 15856] Result: cache_miss
+[2023-10-23T17:22:55.209807 15856] Result: direct_cache_miss
+[2023-10-23T17:22:55.209807 15856] Result: preprocessed_cache_miss
+[2023-10-23T17:22:55.209807 15856] Result: primary_storage_miss
+[2023-10-23T17:22:55.210808 15856] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2023-10-23T17:22:55.210808 15856] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2023-10-23T17:22:55.211809 15856] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-10-23T17:22:55.211809 15856] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-10-23T17:22:55.212810 15856] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.uXyUtD
+[2023-10-23T17:22:55.212810 15856] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.hpYarR
+[2023-10-23T17:22:55.212810 15856] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.5jEheV
+[2023-10-23T17:22:55.212810 15856] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.RJnuSc.i
+[2023-10-23T17:22:55.213811 15856] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.RJnuSc
+[2023-10-23T17:22:55.257851 15228] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:55.257851 15228] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) base_dir = 
+[2023-10-23T17:22:55.257851 15228] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:55.257851 15228] Config: (default) compiler = 
+[2023-10-23T17:22:55.257851 15228] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:55.257851 15228] Config: (default) compiler_type = auto
+[2023-10-23T17:22:55.257851 15228] Config: (default) compression = true
+[2023-10-23T17:22:55.257851 15228] Config: (default) compression_level = 0
+[2023-10-23T17:22:55.257851 15228] Config: (default) cpp_extension = 
+[2023-10-23T17:22:55.257851 15228] Config: (default) debug = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) debug_dir = 
+[2023-10-23T17:22:55.257851 15228] Config: (default) depend_mode = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) direct_mode = true
+[2023-10-23T17:22:55.257851 15228] Config: (default) disable = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:55.257851 15228] Config: (default) file_clone = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) hard_link = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) hash_dir = true
+[2023-10-23T17:22:55.257851 15228] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:55.257851 15228] Config: (default) ignore_options = 
+[2023-10-23T17:22:55.257851 15228] Config: (default) inode_cache = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:55.257851 15228] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:55.257851 15228] Config: (default) max_files = 0
+[2023-10-23T17:22:55.257851 15228] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:55.257851 15228] Config: (default) namespace = 
+[2023-10-23T17:22:55.257851 15228] Config: (default) path = 
+[2023-10-23T17:22:55.257851 15228] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) prefix_command = 
+[2023-10-23T17:22:55.257851 15228] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:55.257851 15228] Config: (default) read_only = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) read_only_direct = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) recache = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) reshare = false
+[2023-10-23T17:22:55.257851 15228] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:55.257851 15228] Config: (default) secondary_storage = 
+[2023-10-23T17:22:55.257851 15228] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:55.257851 15228] Config: (default) stats = true
+[2023-10-23T17:22:55.257851 15228] Config: (default) stats_log = 
+[2023-10-23T17:22:55.257851 15228] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:55.257851 15228] Config: (default) umask = 
+[2023-10-23T17:22:55.257851 15228] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o module.square.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src module.square.c
+[2023-10-23T17:22:55.259853 12256] Using default compression level 1
+[2023-10-23T17:22:55.259853 12256] Storing embedded entry #0 .o (18663 bytes) from module.pygame.sndarray.o
+[2023-10-23T17:22:55.260854 12256] Stored 7a62767movf6lqj3pdue8q0t8s62t8ks2 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/a/62767movf6lqj3pdue8q0t8s62t8ks2R)
+[2023-10-23T17:22:55.260854 12256] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/4/88jlnhl4gi8lodi7tikn2fmtpv6p8s4M
+[2023-10-23T17:22:55.263856 15228] Hostname: Parth
+[2023-10-23T17:22:55.263856 15228] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:55.263856 15228] Compiler type: gcc
+[2023-10-23T17:22:55.263856 15228] Source file: module.square.c
+[2023-10-23T17:22:55.263856 15228] Object file: module.square.o
+[2023-10-23T17:22:55.263856 15228] Trying direct lookup
+[2023-10-23T17:22:55.264857 15228] No 051e72ovp5kaafiomermhau07h546p7ti in primary storage
+[2023-10-23T17:22:55.265859 15228] Running preprocessor
+[2023-10-23T17:22:55.285876 12256] Using default compression level 1
+[2023-10-23T17:22:55.287878 12256] Stored 1488jlnhl4gi8lodi7tikn2fmtpv6p8s4 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/4/88jlnhl4gi8lodi7tikn2fmtpv6p8s4M)
+[2023-10-23T17:22:55.287878 12256] Result: cache_miss
+[2023-10-23T17:22:55.287878 12256] Result: direct_cache_miss
+[2023-10-23T17:22:55.287878 12256] Result: preprocessed_cache_miss
+[2023-10-23T17:22:55.287878 12256] Result: primary_storage_miss
+[2023-10-23T17:22:55.287878 12256] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2023-10-23T17:22:55.288879 12256] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2023-10-23T17:22:55.288879 12256] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-10-23T17:22:55.289880 12256] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-10-23T17:22:55.289880 12256] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.NBmKtM
+[2023-10-23T17:22:55.290881 12256] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.UBfw7b
+[2023-10-23T17:22:55.290881 12256] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.PBACtU
+[2023-10-23T17:22:55.290881 12256] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.9LJUjX.i
+[2023-10-23T17:22:55.291882 12256] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.9LJUjX
+[2023-10-23T17:22:55.339926 792  ] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:55.339926 792  ] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) base_dir = 
+[2023-10-23T17:22:55.339926 792  ] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:55.339926 792  ] Config: (default) compiler = 
+[2023-10-23T17:22:55.339926 792  ] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:55.339926 792  ] Config: (default) compiler_type = auto
+[2023-10-23T17:22:55.339926 792  ] Config: (default) compression = true
+[2023-10-23T17:22:55.339926 792  ] Config: (default) compression_level = 0
+[2023-10-23T17:22:55.339926 792  ] Config: (default) cpp_extension = 
+[2023-10-23T17:22:55.339926 792  ] Config: (default) debug = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) debug_dir = 
+[2023-10-23T17:22:55.339926 792  ] Config: (default) depend_mode = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) direct_mode = true
+[2023-10-23T17:22:55.339926 792  ] Config: (default) disable = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:55.339926 792  ] Config: (default) file_clone = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) hard_link = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) hash_dir = true
+[2023-10-23T17:22:55.339926 792  ] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:55.339926 792  ] Config: (default) ignore_options = 
+[2023-10-23T17:22:55.339926 792  ] Config: (default) inode_cache = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:55.339926 792  ] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:55.339926 792  ] Config: (default) max_files = 0
+[2023-10-23T17:22:55.339926 792  ] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:55.339926 792  ] Config: (default) namespace = 
+[2023-10-23T17:22:55.339926 792  ] Config: (default) path = 
+[2023-10-23T17:22:55.339926 792  ] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) prefix_command = 
+[2023-10-23T17:22:55.339926 792  ] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:55.339926 792  ] Config: (default) read_only = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) read_only_direct = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) recache = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) reshare = false
+[2023-10-23T17:22:55.339926 792  ] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:55.339926 792  ] Config: (default) secondary_storage = 
+[2023-10-23T17:22:55.339926 792  ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:55.339926 792  ] Config: (default) stats = true
+[2023-10-23T17:22:55.339926 792  ] Config: (default) stats_log = 
+[2023-10-23T17:22:55.339926 792  ] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:55.339926 792  ] Config: (default) umask = 
+[2023-10-23T17:22:55.339926 792  ] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2023-10-23T17:22:55.345931 792  ] Hostname: Parth
+[2023-10-23T17:22:55.345931 792  ] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:55.345931 792  ] Compiler type: gcc
+[2023-10-23T17:22:55.345931 792  ] Source file: static_src\MainProgram.c
+[2023-10-23T17:22:55.345931 792  ] Object file: static_src\MainProgram.o
+[2023-10-23T17:22:55.345931 792  ] Trying direct lookup
+[2023-10-23T17:22:55.346932 792  ] No f6a4983bomh59lrcqpci5td9rvrebgdfc in primary storage
+[2023-10-23T17:22:55.347933 792  ] Running preprocessor
+[2023-10-23T17:22:55.641200 18892] Using default compression level 1
+[2023-10-23T17:22:55.641200 18892] Storing embedded entry #0 .o (76129 bytes) from module.__main__.o
+[2023-10-23T17:22:55.646204 18892] Stored 3cfevpjvrau3nnovlj318jrb2ublk3g4k in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/c/fevpjvrau3nnovlj318jrb2ublk3g4kR)
+[2023-10-23T17:22:55.646204 18892] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/8/e9nti2bk1tve15m8r00493s9cnjhfm2M
+[2023-10-23T17:22:55.674230 18892] Using default compression level 1
+[2023-10-23T17:22:55.676231 18892] Stored a8e9nti2bk1tve15m8r00493s9cnjhfm2 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/8/e9nti2bk1tve15m8r00493s9cnjhfm2M)
+[2023-10-23T17:22:55.676231 18892] Result: cache_miss
+[2023-10-23T17:22:55.676231 18892] Result: direct_cache_miss
+[2023-10-23T17:22:55.676231 18892] Result: preprocessed_cache_miss
+[2023-10-23T17:22:55.676231 18892] Result: primary_storage_miss
+[2023-10-23T17:22:55.677233 18892] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-10-23T17:22:55.678234 18892] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-10-23T17:22:55.678234 18892] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-10-23T17:22:55.679234 18892] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-10-23T17:22:55.679234 18892] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.ONb6Df
+[2023-10-23T17:22:55.679234 18892] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.aetEIG
+[2023-10-23T17:22:55.680235 18892] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.0BYEFG
+[2023-10-23T17:22:55.680235 18892] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.bE039W.i
+[2023-10-23T17:22:55.681236 18892] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.bE039W
+[2023-10-23T17:22:55.919453 15692] === CCACHE 4.6 STARTED =========================================
+[2023-10-23T17:22:55.919453 15692] Config: (default) absolute_paths_in_stderr = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) base_dir = 
+[2023-10-23T17:22:55.919453 15692] Config: (environment) cache_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-10-23T17:22:55.919453 15692] Config: (default) compiler = 
+[2023-10-23T17:22:55.919453 15692] Config: (default) compiler_check = mtime
+[2023-10-23T17:22:55.919453 15692] Config: (default) compiler_type = auto
+[2023-10-23T17:22:55.919453 15692] Config: (default) compression = true
+[2023-10-23T17:22:55.919453 15692] Config: (default) compression_level = 0
+[2023-10-23T17:22:55.919453 15692] Config: (default) cpp_extension = 
+[2023-10-23T17:22:55.919453 15692] Config: (default) debug = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) debug_dir = 
+[2023-10-23T17:22:55.919453 15692] Config: (default) depend_mode = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) direct_mode = true
+[2023-10-23T17:22:55.919453 15692] Config: (default) disable = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) extra_files_to_hash = 
+[2023-10-23T17:22:55.919453 15692] Config: (default) file_clone = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) hard_link = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) hash_dir = true
+[2023-10-23T17:22:55.919453 15692] Config: (default) ignore_headers_in_manifest = 
+[2023-10-23T17:22:55.919453 15692] Config: (default) ignore_options = 
+[2023-10-23T17:22:55.919453 15692] Config: (default) inode_cache = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) keep_comments_cpp = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) limit_multiple = 0.8
+[2023-10-23T17:22:55.919453 15692] Config: (environment) log_file = C:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\main.build\ccache-1344.txt
+[2023-10-23T17:22:55.919453 15692] Config: (default) max_files = 0
+[2023-10-23T17:22:55.919453 15692] Config: (default) max_size = 5.0G
+[2023-10-23T17:22:55.919453 15692] Config: (default) namespace = 
+[2023-10-23T17:22:55.919453 15692] Config: (default) path = 
+[2023-10-23T17:22:55.919453 15692] Config: (default) pch_external_checksum = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) prefix_command = 
+[2023-10-23T17:22:55.919453 15692] Config: (default) prefix_command_cpp = 
+[2023-10-23T17:22:55.919453 15692] Config: (default) read_only = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) read_only_direct = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) recache = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) reshare = false
+[2023-10-23T17:22:55.919453 15692] Config: (default) run_second_cpp = true
+[2023-10-23T17:22:55.919453 15692] Config: (default) secondary_storage = 
+[2023-10-23T17:22:55.919453 15692] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-23T17:22:55.919453 15692] Config: (default) stats = true
+[2023-10-23T17:22:55.919453 15692] Config: (default) stats_log = 
+[2023-10-23T17:22:55.919453 15692] Config: (default) temporary_dir = C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-10-23T17:22:55.919453 15692] Config: (default) umask = 
+[2023-10-23T17:22:55.919453 15692] Command line: C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\MinGW\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_STANDALONE -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -IC:\PROGRA~1\WI7DB9~1\PYTHON~1.0_X\include -I. -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\Parth\OneDrive\Desktop\Projects\Chess\code\NUITKA~1\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2023-10-23T17:22:55.925458 15692] Hostname: Parth
+[2023-10-23T17:22:55.925458 15692] Working directory: C:/Users/Parth/OneDrive/Desktop/Projects/Chess/code/main.build
+[2023-10-23T17:22:55.925458 15692] Compiler type: gcc
+[2023-10-23T17:22:55.925458 15692] Source file: static_src\CompiledFunctionType.c
+[2023-10-23T17:22:55.925458 15692] Object file: static_src\CompiledFunctionType.o
+[2023-10-23T17:22:55.925458 15692] Trying direct lookup
+[2023-10-23T17:22:55.926459 15692] No e6907a5i6hivodskliefs11dg1bsk0a9k in primary storage
+[2023-10-23T17:22:55.928461 15692] Running preprocessor
+[2023-10-23T17:22:56.108625 15232] Got result key from preprocessor
+[2023-10-23T17:22:56.108625 15232] No dd5e7icptjdpfpla7554r24km3bfpla8e in primary storage
+[2023-10-23T17:22:56.108625 15232] Running real compiler
+[2023-10-23T17:22:56.108625 17144] Using default compression level 1
+[2023-10-23T17:22:56.108625 17144] Storing embedded entry #0 .o (64367 bytes) from module.pygame.ftfont.o
+[2023-10-23T17:22:56.109625 17144] Stored f0dc86122tibodhti7q3jged03flhv8ru in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/0/dc86122tibodhti7q3jged03flhv8ruR)
+[2023-10-23T17:22:56.110626 17144] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/5/30494bqa1bvlaj6ibnr1gdsv83oedlsM
+[2023-10-23T17:22:56.120635 16660] Got result key from preprocessor
+[2023-10-23T17:22:56.120635 16660] No 2d68cjr2apkgm6107j5le06omla41gvv4 in primary storage
+[2023-10-23T17:22:56.120635 16660] Running real compiler
+[2023-10-23T17:22:56.131645 16256] Got result key from preprocessor
+[2023-10-23T17:22:56.131645 16256] No a150o7jq9puti5uohs2krc8ft92gjjcf2 in primary storage
+[2023-10-23T17:22:56.131645 16256] Running real compiler
+[2023-10-23T17:22:56.135649 17144] Using default compression level 1
+[2023-10-23T17:22:56.137651 17144] Stored 7530494bqa1bvlaj6ibnr1gdsv83oedls in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/5/30494bqa1bvlaj6ibnr1gdsv83oedlsM)
+[2023-10-23T17:22:56.137651 17144] Result: cache_miss
+[2023-10-23T17:22:56.137651 17144] Result: direct_cache_miss
+[2023-10-23T17:22:56.137651 17144] Result: preprocessed_cache_miss
+[2023-10-23T17:22:56.137651 17144] Result: primary_storage_miss
+[2023-10-23T17:22:56.137651 17144] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-10-23T17:22:56.138652 17144] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-10-23T17:22:56.139653 17144] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-10-23T17:22:56.140654 17144] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-10-23T17:22:56.140654 17144] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.he5Hy3
+[2023-10-23T17:22:56.140654 17144] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.xIwAn3
+[2023-10-23T17:22:56.140654 17144] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.HIPqzA
+[2023-10-23T17:22:56.141655 17144] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.5lC2Af.i
+[2023-10-23T17:22:56.141655 17144] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.5lC2Af
+[2023-10-23T17:22:56.267770 15228] Got result key from preprocessor
+[2023-10-23T17:22:56.267770 15228] Retrieved b3a2d709mnnc3a2gidsia3id19lovqb24 from primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/3/a2d709mnnc3a2gidsia3id19lovqb24R)
+[2023-10-23T17:22:56.267770 15228] Reading embedded entry #0 .o (22878 bytes)
+[2023-10-23T17:22:56.268770 15228] Writing to module.square.o
+[2023-10-23T17:22:56.268770 15228] Succeeded getting cached result
+[2023-10-23T17:22:56.268770 15228] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/5/1e72ovp5kaafiomermhau07h546p7tiM
+[2023-10-23T17:22:56.298797 15228] Using default compression level 1
+[2023-10-23T17:22:56.299798 15228] Stored 051e72ovp5kaafiomermhau07h546p7ti in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/5/1e72ovp5kaafiomermhau07h546p7tiM)
+[2023-10-23T17:22:56.299798 15228] Result: direct_cache_miss
+[2023-10-23T17:22:56.299798 15228] Result: preprocessed_cache_hit
+[2023-10-23T17:22:56.299798 15228] Result: primary_storage_hit
+[2023-10-23T17:22:56.299798 15228] Result: primary_storage_miss
+[2023-10-23T17:22:56.300800 15228] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2023-10-23T17:22:56.301801 15228] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2023-10-23T17:22:56.302801 15228] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/c/stats.lock
+[2023-10-23T17:22:56.302801 15228] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/c/stats.lock
+[2023-10-23T17:22:56.303802 15228] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.VvcbZz
+[2023-10-23T17:22:56.303802 15228] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.8gUhrk.i
+[2023-10-23T17:22:56.303802 15228] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.8gUhrk
+[2023-10-23T17:22:56.336832 792  ] Got result key from preprocessor
+[2023-10-23T17:22:56.336832 792  ] No 8355n053d404asasu63lvgl3a9jpe4bac in primary storage
+[2023-10-23T17:22:56.336832 792  ] Running real compiler
+[2023-10-23T17:22:56.656123 5408 ] Using default compression level 1
+[2023-10-23T17:22:56.656123 5408 ] Storing embedded entry #0 .o (103179 bytes) from module.pygame.o
+[2023-10-23T17:22:56.658124 5408 ] Stored d35c1e59earvujsd5cvjsq1tf6l66tm48 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/3/5c1e59earvujsd5cvjsq1tf6l66tm48R)
+[2023-10-23T17:22:56.658124 5408 ] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/d/0ekhibd0c0hgptet8sckm52r7fm423eM
+[2023-10-23T17:22:56.682146 5408 ] Using default compression level 1
+[2023-10-23T17:22:56.683147 5408 ] Stored fd0ekhibd0c0hgptet8sckm52r7fm423e in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/d/0ekhibd0c0hgptet8sckm52r7fm423eM)
+[2023-10-23T17:22:56.684149 5408 ] Result: cache_miss
+[2023-10-23T17:22:56.684149 5408 ] Result: direct_cache_miss
+[2023-10-23T17:22:56.684149 5408 ] Result: preprocessed_cache_miss
+[2023-10-23T17:22:56.684149 5408 ] Result: primary_storage_miss
+[2023-10-23T17:22:56.684149 5408 ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-10-23T17:22:56.685149 5408 ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-10-23T17:22:56.685149 5408 ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2023-10-23T17:22:56.686150 5408 ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2023-10-23T17:22:56.686150 5408 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.oRzA39
+[2023-10-23T17:22:56.686150 5408 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.zTdvcq
+[2023-10-23T17:22:56.687151 5408 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.1E4ndB
+[2023-10-23T17:22:56.687151 5408 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.4Ekol8.i
+[2023-10-23T17:22:56.687151 5408 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.4Ekol8
+[2023-10-23T17:22:57.275686 11324] Using default compression level 1
+[2023-10-23T17:22:57.275686 11324] Storing embedded entry #0 .o (102160 bytes) from module.pygame.cursors.o
+[2023-10-23T17:22:57.276687 11324] Stored c90023jnd1nnddfm5b7i0m6dp5m6qcbjs in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/9/0023jnd1nnddfm5b7i0m6dp5m6qcbjsR)
+[2023-10-23T17:22:57.277689 11324] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/b/e0i4e8olijpm2lnhb7n6hvrgqsr0gvaM
+[2023-10-23T17:22:57.299708 11324] Using default compression level 1
+[2023-10-23T17:22:57.301709 11324] Stored 3be0i4e8olijpm2lnhb7n6hvrgqsr0gva in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/b/e0i4e8olijpm2lnhb7n6hvrgqsr0gvaM)
+[2023-10-23T17:22:57.301709 11324] Result: cache_miss
+[2023-10-23T17:22:57.301709 11324] Result: direct_cache_miss
+[2023-10-23T17:22:57.301709 11324] Result: preprocessed_cache_miss
+[2023-10-23T17:22:57.302711 11324] Result: primary_storage_miss
+[2023-10-23T17:22:57.302711 11324] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-10-23T17:22:57.303712 11324] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-10-23T17:22:57.303712 11324] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-10-23T17:22:57.304712 11324] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-10-23T17:22:57.304712 11324] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.LerJC4
+[2023-10-23T17:22:57.305713 11324] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.RsiqfO
+[2023-10-23T17:22:57.305713 11324] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.IPBK3r
+[2023-10-23T17:22:57.305713 11324] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.BkpYl9.i
+[2023-10-23T17:22:57.306715 11324] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.BkpYl9
+[2023-10-23T17:22:57.369771 792  ] Using default compression level 1
+[2023-10-23T17:22:57.369771 792  ] Storing embedded entry #0 .o (10126 bytes) from static_src\MainProgram.o
+[2023-10-23T17:22:57.370772 792  ] Stored 8355n053d404asasu63lvgl3a9jpe4bac in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/3/55n053d404asasu63lvgl3a9jpe4bacR)
+[2023-10-23T17:22:57.370772 792  ] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/6/a4983bomh59lrcqpci5td9rvrebgdfcM
+[2023-10-23T17:22:57.391792 792  ] Using default compression level 1
+[2023-10-23T17:22:57.393794 792  ] Stored f6a4983bomh59lrcqpci5td9rvrebgdfc in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/6/a4983bomh59lrcqpci5td9rvrebgdfcM)
+[2023-10-23T17:22:57.394795 792  ] Result: cache_miss
+[2023-10-23T17:22:57.394795 792  ] Result: direct_cache_miss
+[2023-10-23T17:22:57.394795 792  ] Result: preprocessed_cache_miss
+[2023-10-23T17:22:57.394795 792  ] Result: primary_storage_miss
+[2023-10-23T17:22:57.394795 792  ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-10-23T17:22:57.395795 792  ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-10-23T17:22:57.395795 792  ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2023-10-23T17:22:57.396796 792  ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2023-10-23T17:22:57.396796 792  ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.1Gv5Ol
+[2023-10-23T17:22:57.397797 792  ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.ZGuJ5E
+[2023-10-23T17:22:57.397797 792  ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.W6Ws73
+[2023-10-23T17:22:57.397797 792  ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.pu12nF.i
+[2023-10-23T17:22:57.397797 792  ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.pu12nF
+[2023-10-23T17:22:57.452847 1664 ] Using default compression level 1
+[2023-10-23T17:22:57.452847 1664 ] Storing embedded entry #0 .o (65589 bytes) from module.pygame.surfarray.o
+[2023-10-23T17:22:57.453848 1664 ] Stored 5f716459m13ks130nml9tctlrrc4taojq in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/f/716459m13ks130nml9tctlrrc4taojqR)
+[2023-10-23T17:22:57.454849 1664 ] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/1/f5v99et6pr3h1v9gd1dtc1hi7mlc6o4M
+[2023-10-23T17:22:57.471864 1664 ] Using default compression level 1
+[2023-10-23T17:22:57.472865 1664 ] Stored 91f5v99et6pr3h1v9gd1dtc1hi7mlc6o4 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/1/f5v99et6pr3h1v9gd1dtc1hi7mlc6o4M)
+[2023-10-23T17:22:57.472865 1664 ] Result: cache_miss
+[2023-10-23T17:22:57.472865 1664 ] Result: direct_cache_miss
+[2023-10-23T17:22:57.472865 1664 ] Result: preprocessed_cache_miss
+[2023-10-23T17:22:57.472865 1664 ] Result: primary_storage_miss
+[2023-10-23T17:22:57.472865 1664 ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2023-10-23T17:22:57.473866 1664 ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2023-10-23T17:22:57.473866 1664 ] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2023-10-23T17:22:57.474867 1664 ] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2023-10-23T17:22:57.475868 1664 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.SRrmjR
+[2023-10-23T17:22:57.475868 1664 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.JysVcq
+[2023-10-23T17:22:57.475868 1664 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.axCSOg
+[2023-10-23T17:22:57.475868 1664 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.BkXQik.i
+[2023-10-23T17:22:57.476869 1664 ] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.BkXQik
+[2023-10-23T17:22:57.755122 15692] Got result key from preprocessor
+[2023-10-23T17:22:57.755122 15692] Retrieved 09ffr0jj3g4rcnmob7d9v0q7bpkkt22a4 from primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/9/ffr0jj3g4rcnmob7d9v0q7bpkkt22a4R)
+[2023-10-23T17:22:57.756123 15692] Reading embedded entry #0 .o (896112 bytes)
+[2023-10-23T17:22:57.756123 15692] Writing to static_src\CompiledFunctionType.o
+[2023-10-23T17:22:57.758125 15692] Succeeded getting cached result
+[2023-10-23T17:22:57.759125 15692] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/6/907a5i6hivodskliefs11dg1bsk0a9kM
+[2023-10-23T17:22:57.780145 15692] Using default compression level 1
+[2023-10-23T17:22:57.782147 15692] Stored e6907a5i6hivodskliefs11dg1bsk0a9k in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/6/907a5i6hivodskliefs11dg1bsk0a9kM)
+[2023-10-23T17:22:57.782147 15692] Result: direct_cache_miss
+[2023-10-23T17:22:57.782147 15692] Result: preprocessed_cache_hit
+[2023-10-23T17:22:57.782147 15692] Result: primary_storage_hit
+[2023-10-23T17:22:57.782147 15692] Result: primary_storage_miss
+[2023-10-23T17:22:57.782147 15692] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2023-10-23T17:22:57.783149 15692] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2023-10-23T17:22:57.783149 15692] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/c/stats.lock
+[2023-10-23T17:22:57.784148 15692] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/c/stats.lock
+[2023-10-23T17:22:57.784148 15692] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.p42ptq
+[2023-10-23T17:22:57.784148 15692] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.Z8uAmv.i
+[2023-10-23T17:22:57.785150 15692] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.Z8uAmv
+[2023-10-23T17:22:57.853211 15232] Using default compression level 1
+[2023-10-23T17:22:57.853211 15232] Storing embedded entry #0 .o (40628 bytes) from module.pygame.version.o
+[2023-10-23T17:22:57.854212 15232] Stored dd5e7icptjdpfpla7554r24km3bfpla8e in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/d/5e7icptjdpfpla7554r24km3bfpla8eR)
+[2023-10-23T17:22:57.854212 15232] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/2/24satvrtbn346s1ls1qqcoo8hf559l4M
+[2023-10-23T17:22:57.871228 15232] Using default compression level 1
+[2023-10-23T17:22:57.872229 15232] Stored 2224satvrtbn346s1ls1qqcoo8hf559l4 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/2/24satvrtbn346s1ls1qqcoo8hf559l4M)
+[2023-10-23T17:22:57.872229 15232] Result: cache_miss
+[2023-10-23T17:22:57.872229 15232] Result: direct_cache_miss
+[2023-10-23T17:22:57.872229 15232] Result: preprocessed_cache_miss
+[2023-10-23T17:22:57.872229 15232] Result: primary_storage_miss
+[2023-10-23T17:22:57.873231 15232] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2023-10-23T17:22:57.873231 15232] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2023-10-23T17:22:57.874231 15232] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2023-10-23T17:22:57.874231 15232] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2023-10-23T17:22:57.875232 15232] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.uD2tFe
+[2023-10-23T17:22:57.875232 15232] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.72xBT6
+[2023-10-23T17:22:57.875232 15232] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.lCvKlK
+[2023-10-23T17:22:57.875232 15232] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.km3jo9.i
+[2023-10-23T17:22:57.875232 15232] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.km3jo9
+[2023-10-23T17:22:58.310627 16660] Using default compression level 1
+[2023-10-23T17:22:58.310627 16660] Storing embedded entry #0 .o (73922 bytes) from module.pygame.threads.o
+[2023-10-23T17:22:58.311628 16660] Stored 2d68cjr2apkgm6107j5le06omla41gvv4 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/d/68cjr2apkgm6107j5le06omla41gvv4R)
+[2023-10-23T17:22:58.311628 16660] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/7/a2ds7jvbk8i6k89co87598qt88ghbgeM
+[2023-10-23T17:22:58.330646 16660] Using default compression level 1
+[2023-10-23T17:22:58.332647 16660] Stored 37a2ds7jvbk8i6k89co87598qt88ghbge in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/7/a2ds7jvbk8i6k89co87598qt88ghbgeM)
+[2023-10-23T17:22:58.332647 16660] Result: cache_miss
+[2023-10-23T17:22:58.332647 16660] Result: direct_cache_miss
+[2023-10-23T17:22:58.332647 16660] Result: preprocessed_cache_miss
+[2023-10-23T17:22:58.332647 16660] Result: primary_storage_miss
+[2023-10-23T17:22:58.332647 16660] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-10-23T17:22:58.332647 16660] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-10-23T17:22:58.333648 16660] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2023-10-23T17:22:58.333648 16660] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2023-10-23T17:22:58.334649 16660] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.rAC1Qq
+[2023-10-23T17:22:58.334649 16660] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.uWg1Eq
+[2023-10-23T17:22:58.334649 16660] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.tQ5jYu
+[2023-10-23T17:22:58.334649 16660] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.LNFeQw.i
+[2023-10-23T17:22:58.335650 16660] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.LNFeQw
+[2023-10-23T17:22:59.254485 16256] Using default compression level 1
+[2023-10-23T17:22:59.254485 16256] Storing embedded entry #0 .o (120236 bytes) from module.pygame.sysfont.o
+[2023-10-23T17:22:59.256487 16256] Stored a150o7jq9puti5uohs2krc8ft92gjjcf2 in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/1/50o7jq9puti5uohs2krc8ft92gjjcf2R)
+[2023-10-23T17:22:59.256487 16256] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/4/929lm0tlp2sbqub1ppqngq4jro1kiagM
+[2023-10-23T17:22:59.272502 16256] Using default compression level 1
+[2023-10-23T17:22:59.273503 16256] Stored 14929lm0tlp2sbqub1ppqngq4jro1kiag in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/4/929lm0tlp2sbqub1ppqngq4jro1kiagM)
+[2023-10-23T17:22:59.273503 16256] Result: cache_miss
+[2023-10-23T17:22:59.273503 16256] Result: direct_cache_miss
+[2023-10-23T17:22:59.273503 16256] Result: preprocessed_cache_miss
+[2023-10-23T17:22:59.273503 16256] Result: primary_storage_miss
+[2023-10-23T17:22:59.273503 16256] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2023-10-23T17:22:59.274504 16256] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2023-10-23T17:22:59.274504 16256] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-10-23T17:22:59.275504 16256] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-10-23T17:22:59.275504 16256] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.jTDhR7
+[2023-10-23T17:22:59.275504 16256] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.T4I3Cu
+[2023-10-23T17:22:59.275504 16256] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.vrMFXQ
+[2023-10-23T17:22:59.275504 16256] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.eXtbGo.i
+[2023-10-23T17:22:59.276506 16256] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.eXtbGo
+[2023-10-23T17:23:02.079055 11748] Using default compression level 1
+[2023-10-23T17:23:02.080055 11748] Storing embedded entry #0 .o (383922 bytes) from module.pygame.sprite.o
+[2023-10-23T17:23:02.082057 11748] Stored cf9ebp3e0rimdjtukq85bs186oqgudqrs in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/f/9ebp3e0rimdjtukq85bs186oqgudqrsR)
+[2023-10-23T17:23:02.082057 11748] Adding result key to C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/3/79go48e8gqltp3o232joj6d8ov299miM
+[2023-10-23T17:23:02.103076 11748] Using default compression level 1
+[2023-10-23T17:23:02.104077 11748] Stored b379go48e8gqltp3o232joj6d8ov299mi in primary storage (C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/3/79go48e8gqltp3o232joj6d8ov299miM)
+[2023-10-23T17:23:02.104077 11748] Result: cache_miss
+[2023-10-23T17:23:02.104077 11748] Result: direct_cache_miss
+[2023-10-23T17:23:02.104077 11748] Result: preprocessed_cache_miss
+[2023-10-23T17:23:02.104077 11748] Result: primary_storage_miss
+[2023-10-23T17:23:02.104077 11748] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2023-10-23T17:23:02.105078 11748] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2023-10-23T17:23:02.105078 11748] Acquired lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-10-23T17:23:02.106079 11748] Releasing lock C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-10-23T17:23:02.106079 11748] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.1JVfvP
+[2023-10-23T17:23:02.106079 11748] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.Mkf4uw
+[2023-10-23T17:23:02.107080 11748] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.zXr4NY
+[2023-10-23T17:23:02.107080 11748] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.e3m6G7.i
+[2023-10-23T17:23:02.109081 11748] Unlink C:\Users\Parth\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.e3m6G7
