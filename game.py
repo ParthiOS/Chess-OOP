@@ -44,6 +44,14 @@ class Game:
                 rect = (move.final.col * SQSIZE, move.final.row * SQSIZE, SQSIZE, SQSIZE)
                 pygame.draw.rect(surface, color, rect)
 
+    def if_mate_show_winner(self, surface, player_color):
+        color = '#121212' if player_color == 'white' else '#FFFFFF'
+        for row in range(ROWS):
+            for col in range(COLS):
+                
+                rect = (col* SQSIZE, row * SQSIZE, SQSIZE, SQSIZE)
+                pygame.draw.rect(surface, color, rect)
+                
     def show_last_move(self, surface):
         if self.board.last_move:
             initial = self.board.last_move.initial
