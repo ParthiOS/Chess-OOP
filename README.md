@@ -5,3 +5,5 @@ In order to run this code please go to the releases tab on the right and downloa
 
 Note:
 You will need to already have a python version 3.9 or higher compiler and a C compiler installed
+
+En passant is not working currently will be fixed soon please wait for the next commit
