@@ -16,6 +16,22 @@ class Board:
         self._add_pieces('black')
 
 
+    def check_move(self, row, col, piece, possible_move_row, possible_move_col, bool):
+
+        initial = Square(row, col)
+        final_piece = self.squares[possible_move_row][possible_move_col].piece
+        final = Square(possible_move_row, possible_move_col, final_piece)
+        # create a new move
+        move = Move(initial, final)
+
+        # check potencial checks
+        if bool:
+            if not self.is_in_check(piece, move):
+                    
+                piece.add_move(move)
+        else:
+                
+            piece.add_move(move)
     
 
 
@@ -141,20 +157,9 @@ class Board:
             for possible_move_row in range(start, end, piece.dir):
                 if Square.in_range(possible_move_row):
                     if self.squares[possible_move_row][col].isempty():
-                        # create initial and final move squares
-                        initial = Square(row, col)
-                        final = Square(possible_move_row, col)
-                        # create a new move
-                        move = Move(initial, final)
+                        
 
-                        # check potencial checks
-                        if bool:
-                            if not self.is_in_check(piece, move):
-                                 
-                                piece.add_move(move)
-                        else:
-                             
-                            piece.add_move(move)
+                        self.check_move(row, col, piece, possible_move_row, col, bool)
                     # blocked
                     else: break
                 # not in range
@@ -166,22 +171,8 @@ class Board:
             for possible_move_col in possible_move_cols:
                 if Square.in_range(possible_move_row, possible_move_col):
                     if self.squares[possible_move_row][possible_move_col].has_rival_piece(piece.color):
-                        # create initial and final move squares
-                        initial = Square(row, col)
-                        final_piece = self.squares[possible_move_row][possible_move_col].piece
-                        final = Square(possible_move_row, possible_move_col, final_piece)
-                        # create a new move
-                        move = Move(initial, final)
                         
-                        # check potencial checks
-                        if bool:
-                            if not self.is_in_check(piece, move):
-                                 
-                                piece.add_move(move)
-                        else:
-                             
-                            piece.add_move(move)
-
+                        self.check_move(row, col, piece, possible_move_row, possible_move_col, bool)
             # en passant moves
            
         def knight_moves():
@@ -202,23 +193,8 @@ class Board:
 
                 if Square.in_range(possible_move_row, possible_move_col):
                     if self.squares[possible_move_row][possible_move_col].isempty_or_rival(piece.color):
-                        # create squares of the new move
-                        initial = Square(row, col)
-                        final_piece = self.squares[possible_move_row][possible_move_col].piece
-                        final = Square(possible_move_row, possible_move_col, final_piece)
-                        # create new move
-                        move = Move(initial, final)
                         
-                        # check potencial checks
-                        if bool:
-                            if not self.is_in_check(piece, move):
-                                 
-                                
-                                piece.add_move(move)
-                            
-                        else:
-                             
-                            piece.add_move(move)
+                        self.check_move(row, col, piece, possible_move_row, possible_move_col, bool)
 
         def straightline_moves(incrs):
             for incr in incrs:
@@ -287,22 +263,8 @@ class Board:
 
                 if Square.in_range(possible_move_row, possible_move_col):
                     if self.squares[possible_move_row][possible_move_col].isempty_or_rival(piece.color):
-                        # create squares of the new move
-                        initial = Square(row, col)
-                        final = Square(possible_move_row, possible_move_col) # piece=piece
-                        # create new move
-                        move = Move(initial, final)
-                        # check potencial checks
-                        
-                        
-                        if bool:
-                            if not self.is_in_check(piece, move):
-                                 
-                                piece.add_move(move)
-                            
-                        else:
-                             
-                            piece.add_move(move)
+                        self.check_move(row, col, piece, possible_move_row, possible_move_col, bool)
+
 
             # castling moves
             if not piece.moved:
